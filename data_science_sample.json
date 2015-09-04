@@ -1,0 +1,1586 @@
+[
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "Work with the data science team to build new products and integrate analytics\ninto existing workflows. Leverage big data solutions, advanced statistical\nmethods, and web apps. Coordinate with domain experts, IT operations, and\ndevelopers. Present to clients.\n\n  * Coordinate the workflow of the data science team\n  * Join a team of experts in big data, advanced analytics, and visualizat...", 
+        "title": "Data Science Team Lead", 
+        "url": "http://www.jobserve.com/us/en/search-jobs-in-Columbia,-Maryland,-USA/DATA-SCIENCE-TEAM-LEAD-99739A4618F8894B/", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -76.8582049, 
+                    39.2156213
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveNa", 
+        "employmentType": [
+            "Unspecified"
+        ], 
+        "lastSeen": "2015-05-13T01:21:07.240000", 
+        "jobLocation": [
+            "Columbia, Maryland, United States of America"
+        ], 
+        "identifier": "99739A4618F8894B", 
+        "hiringOrganization": [
+            "Customer Relation Market Research Company"
+        ], 
+        "firstSeen": "2015-05-13T01:21:07+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "**Referenz Nr.: **5079JL\n\n**Branche:** Bank\n\n**Einsatzort:** Bern und Region\n\n**Pensum:** 100%\n\n**Beginn:** ab sofort/nach Vereinbarung\n\n**Dauer:** 6 Monate +\n\n**Introduktion:**\n\nITech Consult AG ist seit 1997 auf die Vermittlung von externen Informatik-\nProfis spezialisiert. Wir wissen, was es bedeutet, st\u00e4ndig im Einsatz zu\nstehen - und wir wissen auch, wie wichtig die professionelle Unterst\u00fctzung bei\nProjektsuche und -arbeit ist.\n\n**Rolle:**\n\nUnser Kunde sucht einen Spezialisten im Bereich Applikationsmanager/Entwickler\n(Data Science/  \nMining), der auch eine Stellvertretung f\u00fcr den Applikationsverantwortlichen\nwahrnehmen kann mit folgenden Aufgaben:\n\n  * Betreuung einer Applikation oder eines Applikationsclusters.\n  * Managen des Lifecycles der Applikationen, Sicherstellen des technologischen Fortschritts, der sicherheitstechnischen Anforderungen und der einfachen Betreibbarkeit.\n  * Planung und Durchf\u00fchrung komplexer applikatorischer Releases.\n  * Behebung schwieriger, betriebskritischen St\u00f6rungen/Fehlern auf der Applikation, welche nicht via Betrieb gel\u00f6st werden k\u00f6nnen.\n  * Umsetzung von notwendigen Anpassungen aus Incidents und Problems\n\n**Anforderungen:**\n\n  * Abgeschlossenes Diplom oder gleichwertige Erfahrung\n  * Mind. 5 Jahre Erfahrung als Applikationsmanager und Entwickler\n  * Erforderliche Branchenerfahrung: Bank\n  * fliessende Deutschkenntnisse", 
+        "title": "Applikationsmanager/Entwickler (Oracle/Data Science)", 
+        "url": "http://www.jobserve.com/ch/en/find-jobs-in-Switzerland/APPLIKATIONSMANAGER-ENTWICKLER-ORACLE-DATA-SCIENCE-E24F6F9E67256EDC/", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    7.4515008, 
+                    46.9482759
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveEu", 
+        "employmentType": [
+            "Contract"
+        ], 
+        "lastSeen": "2015-05-13T00:26:48.115000", 
+        "jobLocation": [
+            "Bern, Switzerland"
+        ], 
+        "identifier": "E24F6F9E67256EDC", 
+        "hiringOrganization": [
+            "ITech Consult"
+        ], 
+        "firstSeen": "2015-05-08T00:25:01+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "LinkedIn", 
+        "description": "Santa Clara, CA, US\n\n**Listing Info  \n  \n**Senior Data Science Engineer  \n** Data Science Santa Clara, CA, United States  \n  \n****Senior Data Science Engineer  \n  \n**Analytics Santa Clara, CA  \n  \n**Your goal \u2013 to improve the education process and better the lives of students -- through data and analytics.   \n  \n****Organization: Data Engineering** The Data Engineering team is central to Chegg \u2013 supporting every business line and functional organization at the company. It is a team composed of data modelers, data engineers, data science engineers and architects. The team influences strategy and tactics for Chegg\u2019s data ecosystem.  \n  \n**Role:  \nData Science Engineer  \n  \n**Your primary focus will be bringing to production a new set of data products and services at Chegg. These will be built upon data science, recommendation systems, and other algorithmic approaches. We have no attachment to legacy processes. You will work very closely with our Analytics team to bring Big Data solutions to our application layer. You\u2019ll select the best technologies and influence which algorithms make sense to use.  \n  \nThis is a highly technical role and not for amateurs. You will need extensive\nexperience in working with various Big Data tools, machine learning models,\nand engineering platforms. In addition, you must be a leader that can provide\nguidance and mentorship.  \n  \n** Responsibilities  \n**\n\n  * Influence data science algorithms and services that will be used as the backbone of recommendation engines, discovery platforms, custom matching services, and for internal analysis purposes.\n  * Migrate models and systems from prototype to full production.\n  * Participate in the architectural design of data science platforms that will unite data science capabilities with data engineering, and product engineering.\n  * Develop presentations to communicate broadly across the product groups and business units.  \n\n**Requirements:  \n**   \n\n  * B.S. in Computer Science, Statistics, Math or related quantitative fields.\n  * 5-7 years of demonstrated success in moving systems from their prototype stage into full production.\n  * Have an extensive engineering toolset including an advanced understanding of MapReduce, and machine learning algorithms.\n  * Expert with Hadoop from both the operational and engineering perspectives\n  * Expert with Java in the MapReduce use case.\n  * Fluent in writing SQL queries for data manipulation.\n  * Passionate about producing high-quality engineering deliverables and communicating results to a broad audience.\n  * Self-motivated; independent, organized and proactive; highly responsive, flexible, and adaptable when working across multiple teams.  \n\n**Preferred:   \n**\n\n  * Expert in at least one of the scripting languages such as Python, Perl or Ruby.\n  * Experience working with Amazon EMR.  \n\n**Chegg out our culture and benefits!  \n  \n****http://www.chegg.com/jobs/benefits  \n  \n****   \n  \n****https://www.youtube.com/watch?v=YYHnkwiD7Oo  \n  \n****  \nhttp://techblog.chegg.com/  \n  \n  \n  \n****   \n  \n****   \n  \n**Chegg is an equal opportunity employer  \n  \n\nAbout Chegg  \n  \nChegg puts students first and is proud to have saved students and their\nfamilies more than $500 million in 2014 alone. As the leading student-first\nconnected learning platform, Chegg's Student Hub makes higher education more\naffordable and more accessible, all while improving student outcomes. Chegg is\na publicly-held company based in Santa Clara, California and trades on the\nNYSE under the symbol CHGG. For more information, visit www.chegg.com  \n  \nChegg Student Hub: What is it? https://vimeo.com/120377654  \n  \nGlassdoor - Best Places to Work 2015! - http://bit.ly/GDBPTW  \n  \nChegg Saved Students and Their Families More Than $500 Million in 2014 Yahoo\nFinance - http://yhoo.it/1sw5p34", 
+        "title": "Senior Data Science Engineer", 
+        "url": "https://www.linkedin.com/jobs2/view/55008010?trk=jserp_job_details_text", 
+        "hiringOrganization": [
+            "Chegg"
+        ], 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "linkedin", 
+        "employmentType": [
+            "Vollzeit"
+        ], 
+        "lastSeen": "2015-04-04T02:30:58.978000", 
+        "jobLocation": [
+            "Santa Clara, CA, US"
+        ], 
+        "identifier": "55008010", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -121.9551744, 
+                    37.3541132
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-04-04T02:30:58+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "# Job Description  \n  \nPosition Summary: Analyst for the Data Science team for part-time temporary\nprojects.  \n  \nReporting to the Director of Data Science, the Metis Analyst will be\nresponsible for managing and completing short term temporary projects for the\nData Science team, using programming and statistical methods. The Metis\nAnalyst will be assigned to a single project and will report the results back\nto key stakeholders upon completion.  \n  \nKey Job Responsibilities: Data Analysis, Predictive Modeling, Data\nVisualization, Presenting Results.  \n  \nMinimum Qualifications:  \n  \n* Experience working with Python, SQL, D3  \n  \n* Understanding of and experience with machine learning  \n  \n*Job Title:* KTP Data Science Analyst  \n  \n*Req #:* 27878BR  \n  \n*Division:* Kaplan Test Prep  \n  \n*State/Province:* New York  \n  \n*City:* New York  \n  \n*Full Time/Part Time:* Part-Time  \n  \n*Required Working Hours:* Days", 
+        "title": "KTP Data Science Analyst", 
+        "employmentType": [
+            "Unspecified"
+        ], 
+        "hiringOrganization": [
+            "Kaplan University"
+        ], 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveUs", 
+        "url": "http://www.jobserve.com/us/en/mob/job/6BA37FC9C31B9096", 
+        "lastSeen": "2015-07-15T14:41:38.372000", 
+        "jobLocation": [
+            "New York City, New York"
+        ], 
+        "identifier": "6BA37FC9C31B9096", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -73.9865812, 
+                    40.7305991
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-07-15T14:41:38+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Bundesagentur f\u00fcr Arbeit", 
+        "description": "Job ID: 180858  \nLocation: M\u00fcnchen  \nOrganisation: Infrastructure & Cities Sector  \nMode of Employment: Unbefristet  \n  \nGemeinsam machen wir den Unterschied  \n  \n  \n  \nIn der Division Mobility sind die Zugtechnik und die Bahnautomatisierung von\nSiemens zusammengefasst. Die beiden Bereiche adressieren das Wachstumsfeld\nSmart Mobility mit intelligenten und integrierten L\u00f6sungen. Dazu geh\u00f6ren unter\nanderem Schienenfahrzeuge und die dazugeh\u00f6rigen Serviceleistungen,\nBahnelektrifizierung, Infrastrukturlogistik sowie intelligente Verkehrs- und\nTransportsysteme.  \n  \n  \n  \nWerden Sie jetzt Teil unseres Teams von Mobility als Data Science Engineer\n(m/w) in M\u00fcnchen.  \n  \n  \n  \nWas sind meine Aufgaben?  \n  \n  \n  \n\\- Entwicklung innovativer L\u00f6sungen zur Datenanalytik bestehend aus\nentsprechenden Technologien, Algorithmen und Applikationen \u2013 von der\nIdeenentwicklung \u00fcber Prototypen bis hin zu skalierbaren industriellen\nSystemen  \n\\- Identifizierung und Bewertung unbekannter Beziehungen in den Daten vom\nFahrzeugen, Infrastruktur und anderen Daten um businessrelevante Erkenntnisse\nzu gewinnen  \n\\- Durchf\u00fchrung explorativer Datananalysen in komplexen Datenstrukturen  \n\\- Erstellung wiederverwendbarer analytischer Modelle und Operationalisierung\nsolcher Modelle in der Analytikplattform  \n\\- Erstellung entsprechender Visualisierungen f\u00fcr die Ergebnisse derartiger\nanalytischer Modelle  \n\\- Zusammenarbeit mit Businessverantwortlichen zum Verst\u00e4ndnis der\nGesch\u00e4ftsanforderungen und zur Identifizierung von Gesch\u00e4ftsm\u00f6glichkeiten\ndurch Datenanalytik  \n\\- Implementierung und Management von \u201cBig Data\u201d-Projekten mit dem Fokus auf\nmoderner Datenanalytik, maschinellem Lernen und industriellen Applikationen  \n  \nWas bringe ich mit?  \n  \n  \n  \n\\- Erfolgreich abgeschlossenes Hochschulstudium der Informatik, Mathematik,\nPhysik, Ingenieurswissenschaften oder \u00e4hnlicher Fachrichtungen  \n\\- Mehrj\u00e4hrige Erfahrung im Kontext von \u201cData science\u201d und moderner\nDatenanalytik  \n\\- Starke Erfahrungen in Technologien, Algorithmen und Methoden zur\nDatenanalytik, insbesondere im Umfeld Data Mining, maschinellem Lernen und\nSimulation  \n\\- Kenntnissen relationaler Datenbanken (SQL) und NoSQL-Datenbanken bzw.\nHadoop, sowie Programmierkenntnisse insbesondere in Java, C# oder C++  \n\\- Erfahrung in der Nutzung analytischer Tools und Systeme, insbesondere R und\nanderer Arbeitswerkzeuge zum Data Mining  \n\\- F\u00e4higkeit Schlussfolgerungen aus Daten zu ziehen und entsprechende\nHandlungen vorzuschlagen  \n\\- Starke Pr\u00e4sentations- und Kommunikationsf\u00e4higkeiten, insbesondere die\nF\u00e4higkeit komplexe Analysen in klarer und umsetzbarer Form den Gesch\u00e4ften zu\nkommunizieren  \n\\- Selbstmotivation, Initiative, Durchsetzungsf\u00e4higkeit und starke\nErgebnisorientierung  \n  \nSo treten Sie mit uns in Kontakt \u2013 einfach und direkt  \n  \n  \n  \nwww.siemens.com/mobility  \nwenn Sie vor Ihrer Bewerbung mehr \u00fcber den Gesch\u00e4ftsbereich erfahren m\u00f6chten  \n+49 (9131) 7-35335  \nwenn Sie erste Fragen gern pers\u00f6nlich mit unserem Recruiting Team kl\u00e4ren\nm\u00f6chten  \nwww.siemens.de/karriere/FAQs  \nwenn Sie mehr Informationen \u00fcber den Bewerbungsablauf und unsere Leistungen\nf\u00fcr Mitarbeiter erfahren m\u00f6chten", 
+        "title": "Data Science Engineer (m/w) (Informatiker/in (Hochschule))", 
+        "url": "http://jobboerse.arbeitsagentur.de/vamJB/stellenangeboteFinden.html;jsessionid=YHhBJBQTJKWdR2V6VnJzYnQ23GnBRCGRRJb1HNVrfpyh4NBs2vbW!538835828?&benc=TTLXxYYy0Sr3Nrv5QHIY2rCmWdoVZXqaMwmsJEYnA5KRlLLuh8DGAw%3D%3D&benc=25e9rvrtNr2sPTIg2QRevt8lPqnANpUs0xc9Xk1u5%2FShw0Gs%2B9pNQyzXxHVPW4GTMpcaldAzQIQ%3D&benc=SeezuLPCjlMpF8ofLRUEij00yWqB7VvGO4m9gOriLqA9KrfQjQ1PIf%2Fuk0iqireOoCmSsLCvbfCeHJWkbiV21RcWEjywNh2t434riG08o%2Bs%3D", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    11.4844229457238, 
+                    48.192996
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "arbeitsagentur", 
+        "employmentType": [
+            "Vollzeit"
+        ], 
+        "lastSeen": "2014-10-28T03:36:32", 
+        "jobLocation": [
+            "80997 M\u00fcnchen, Bayern, Deutschland"
+        ], 
+        "identifier": "12465-511334-000001-S", 
+        "hiringOrganization": [
+            "Siemens AG Recruiting Center Talent Acquisition"
+        ], 
+        "firstSeen": "2014-10-18T03:19:54+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "Unser Klient ist eines der grten globalen Medienkonzerne und zhlt zu Europas\ngrten Anbietern fr E-commerce und Digitalen Plattformen. Mit mehr als 50\nMillionen Kunden in 40 Lndern, verfgt unser Mandant ber eines der grten\nDatenstze der Welt. Das aktuelle Data Sciene Team besteht aus 10 Experten aus\n4 Lndern. Zur Verstrkug des Teams suchen wir daher in Berlin ab sofort einen\nSenior Data Scientist (m w) IHRE AUFGABEN Als Teil eines innovativen Data\nScience Engineering Teams, welches stndig wchst, sorgen Sie fr eine\nkontinuierliche Weiterentwicklung des Daten Statistik Predictive Analytics\nBereichs Anwendung von AWS, R, SQL und Python um Data Mining, statistische\nModellierung und Daten Analysen durchzufhren Als Vorreiter der statistischen\nMethoden wenden Sie Bayessche Statistik Methoden Monte Carlo Simulation an\nAnhand der vorhandenen Terrabytes an Datenstzen, generieren Sie Einblicke in\ndas Kundenverhalten und sagen zuknftige Verhaltensweise vorher um\nkommerziellen Mehrwert zu erschaffen Als Schnittstelle zwischen\nunterschiedlichen Bereichen werden Sie als Ansprechpartner fr diverse\nStakeholder und interne Ansprechpartner fr das Thema Data Science fungieren\nSie arbeiten Konzernbergreifend an internationalen Marken und E-commerce\nPlattformen, sowie an spannenden und abwechslungsreichen Projekten mitwirken\nIHR PROFIL Erfolgreich abgeschlossenes Studium im Bereich Mathematik, Physik\noder Informatik, idealerweise haben Sie promoviert Sie verfgen ber sehr gute\nFhigkeiten in angewandter Informatik und statistischer Daten Modellierung um\ninnovative Praktiken innerhalb des Data Science Bereichs zu erzielen\nSehrguteundschnelleAuffasungsgabe um neueSoftwaresundKenntnissezuerlernen\ndasArbeitsumfeldistsehrdynamischundentwickeltsich stndig weiter Sie verfgen\nber sehr gute Kenntnisse im Umgang mit den gngigen Data Science Tools bspw.\nAWS Redshift, Python, R, Hive, Hadoop, SAS, SPSS, Expertenkenntnisse in\nstatistischen Methoden, z.b. Bayessche Statistik, Monte Carlo Simulation,\nEvolutionrer Algorithmus KEY WORDS Berlin, Data Science, Statistik,\nStochastik, AWS Redshift, Python, R, Hive, Hadoop, SAS, SPSS, Redshift, AWS,\nSQL, NoSQL, Hadoop, Hive, Matlab, Baysessche Statistik, Monte Carlo\nSimulation, Maschinelles Lernen, Big Data, Data Scientist, Statistik,\nInformatik, Computer Science,", 
+        "title": "Senior Data Scientist (m/w)", 
+        "url": "http://www.jobserve.com/de/en/search-jobs-in-Berlin-Brandenburg,-Germany/SENIOR-DATA-SCIENTIST-M-W-B8F6ACF47210486E/", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    13.41053, 
+                    52.52437
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveDe", 
+        "employmentType": [
+            "Permanent"
+        ], 
+        "lastSeen": "2015-04-19T00:12:10.932000", 
+        "jobLocation": [
+            "Berlin, Germany"
+        ], 
+        "identifier": "B8F6ACF47210486E", 
+        "hiringOrganization": [
+            "Harnham 1"
+        ], 
+        "firstSeen": "2015-04-17T00:08:02+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "Head of Data Science - Data Science, Data Coding, Open Source, Hadoop (Hive,\nImpala, Pig), Mahout, PostgreSQL, AWS (EC2, EMR, S3) MongoDB, Neo4J-Cypher,\nData Munging, Data Analysis\n\nUp to \u00a380K base + bonus + benefits, location: London with UK travel when\nneeded\n\nSuperb opportunity for a Head of Data Science to join my end user client to be\nresponsible for evangelising big data technology/data science and to lead the\nData Science Centre of Excellence.\n\nA huge bonus will be that you have exposure to data science and data analytics\nprojects within a HR Solutions company or a HR consulting organisation.\n\nYou will be able to demonstrate most of the following skills in:\n\n  * Data Systyems: Hadoop (Hive/Impala/Pig),Mahout, PostgreSQL, AWS (EC2/EMR/S3), MongoDB, Neo4J - Cypher.\n  * Analytical Skills: Data Munging, Statistical Analysis, Experimental design (sampling, confidence), Classifier and predictor development, Time series analysis, Pattern detection, Natural Language Processing, Sentiment Analysis, Computer Vision.\n  * Supplementary Skills: Data Visualisation, API Exploitation, Source control using Git, Continuous Integration (Jenkins), Unit Testing, Virtual Machines (Vagrant, Virtualbox).\n  * Languages: Python (+ SciPy/Pandas/SciKitLearn), R, Excel (+VBA), SQL, Bash Scripting, Clojure (+ Cascalog), HMTL5 (+ D3/Bootstrap/Yeoman)\n\nThis is an excellent chance to build your career prospects within a company\nthat is thriving with some of the most exciting data science and data\nanalytics projects in the world\n\nInterview in London with hiring manager on Thursday 3rd September", 
+        "title": "Head of Data Science - Data Science Centre of Excellence", 
+        "employmentType": [
+            "Permanent", 
+            "\u00a380k per annum + bonus + benefits"
+        ], 
+        "hiringOrganization": [
+            "Careerwise"
+        ], 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveGb", 
+        "url": "http://www.jobserve.com/gb/en/mob/job/71CE945F0E224795", 
+        "lastSeen": "2015-08-05T15:37:32.385000", 
+        "jobLocation": [
+            "London"
+        ], 
+        "identifier": "71CE945F0E224795", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -0.1276474, 
+                    51.5073219
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-08-05T15:37:32+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Monster", 
+        "description": "COMPUTER:  \nWorkday, Inc. in Pleasanton, CA seeks a Data Science Product Manager to help\ndrive the requirements and design of our data analysis and system monitoring\nfeatures. See website for complete details:", 
+        "title": "Data Science Product Manager", 
+        "url": "http://jobview.monster.com/Data-Science-Product-Manager-Job-Pleasanton-CA-US-136690497.aspx", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -121.862128, 
+                    37.646081
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "monsterCom", 
+        "employmentType": [
+            "Full Time"
+        ], 
+        "lastSeen": "2014-07-14T03:55:51", 
+        "jobLocation": [
+            "Pleasanton CA US"
+        ], 
+        "identifier": "136690497", 
+        "hiringOrganization": [
+            "Workday"
+        ], 
+        "firstSeen": "2014-07-14T03:55:51+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "StepStone", 
+        "description": "VERST\u00c4RKEN SIE UNSER TEAM Wir suchen zur Festanstellung in M\u00fcnchen ab sofort\n\n##  (Senior) Consultants Data Analytics / Data Science (w/m)\n\nzur Verst\u00e4rkung unseres erfolgreichen BA-Teams f\u00fcr die Beratung, Konzeption\nund Entwicklung innovativer Konzepte f\u00fcr Data Mining-Strategien und\n\u2013Architekturen Unser Unternehmen mit ca. 580 Mitarbeitern plant, realisiert\nund betreut IT-Systeme f\u00fcr Automobilindustrie und Banken. Wir besitzen\nlangj\u00e4hrige Erfahrung in der professionellen Abwicklung von Projekten. Wir\nl\u00f6sen unsere Aufgabenstellungen im Team, mit neuesten Technologien, hoher\nKreativit\u00e4t und Spitzen-Know-how.\n\n###  IHRE AUFGABEN:\n\nEntwicklung und Konzeption von gesamthaften Data Mining L\u00f6sungen mit SPSS\nModeler, R, QlikView und anderen Analytics-/BI-Tools f\u00fcr unsere Kunden\nBeratung unserer Kunden rund um die strategischen Themen Data Mining,\nOperation Research, Data Discovery und Visualisierung\n\n### IHR PROFIL:\n\nAbgeschlossenes Studium der Wirtschaftsinformatik, Informatik, Mathematik,\nStatistik oder vergleichbare Ausbildung Idealerweise bereits Berufserfahrung\nin Business Analytics / Data Science oder BI Kenntnisse in der Anwendung\nstatistischer Methoden, Data Mining, Optimierung, Datenvisualisierung und\nReporting Gute Kenntnisse in SPSS Modeler, SAS oder sonstigen Data Mining /\nBig Data Tools Idealerweise Kenntnisse in Technologien wie QlikView, Tableau,\nCognos, Oracle BI IT Expertise zu Datenbanken oder Kenntnisse in den\nProgrammiersprachen SQL, R, Python w\u00fcnschenswert Hohe Eigeninitiative und\nEinsatzbereitschaft, selbst\u00e4ndige Arbeitsweise, Flexibilit\u00e4t, sowie sehr gute\nDeutsch- und Englischkenntnisse\n\n### UNSER ANGEBOT:\n\nAusgezeichnete Konditionen in einem sehr kollegialen Umfeld Eine flache,\nprojektorientierte Unternehmensstruktur Kurze Kommunikationswege f\u00fcr\nunb\u00fcrokratische Entscheidungen Bedarfsgerechte, individuelle\nEntwicklungsm\u00f6glichkeiten\n\n### SIND SIE INTERESSIERT?\n\nDann freuen wir uns auf Ihre aussagekr\u00e4ftigen Bewerbungsunterlagen - bevorzugt\nper E-Mail \u2013 mit Angabe Ihres fr\u00fchestm\u00f6glichen Eintrittstermins und Ihrer\nGehaltsvorstellung. Sulzer GmbH Personalreferat Frankfurter Ring 162 80807\nM\u00fcnchen Tel.: 089/31858-0 E-Mail: jobs@sulzer.de Web: www.sulzer.de", 
+        "title": "(Senior) Consultants Data Analytics / Data Science (w/m)", 
+        "url": "http://www.stepstone.de/stellenangebote--Senior-Consultants-Data-Analytics-Data-Science-w-m-Muenchen-Sulzer-GmbH--3258969-inline.html?isHJ=false&isHJR=false&suid=5d11e5f2-7f64-4b6c-b6d5-3efdc33e47ad&ssaPOP=20&ssaPOR=45", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    11.5754815, 
+                    48.1372719
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "stepstone", 
+        "employmentType": [
+            "Vollzeit", 
+            "Feste Anstellung"
+        ], 
+        "lastSeen": "2015-06-01T07:43:56.105000", 
+        "jobLocation": [
+            "M\u00fcnchen"
+        ], 
+        "identifier": "3258969", 
+        "hiringOrganization": [
+            "Sulzer GmbH"
+        ], 
+        "firstSeen": "2015-04-09T00:01:47+00:00"
+    }, 
+    {
+        "sector": "Consumer Discretionary", 
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Amazon.com Inc", 
+        "description": "Surrounded by water, mountains, and cherry blossoms, we are proud to push\nthe...\n\nDie Audible GmbH ist ein f\u00fchrender Anbieter von H\u00f6rbuch-Downloads in\nDeutschland. Unter www.audible.de sind momentan mehr als 150.000 Titel in\ndeutscher, englischer, spanischer und franz\u00f6sischer Sprache von mehr als 800\nVerlagen erh\u00e4ltlich - darunter die gr\u00f6\u00dfte Auswahl ungek\u00fcrzter H\u00f6rb\u00fccher.\nAudible ist weltweit exklusiver H\u00f6rbuch-Partner des Apple iTunes Store.\nAudible geh\u00f6rt seit einigen Jahren zum E-Commerce-Unternehmen Amazon.  \n  \nZur Verst\u00e4rkung unseres Teams in Berlin suchen wir einen engagierten und\nbegeisterungsf\u00e4higen  \n  \n  \nWerkstudent \u2013 Data Science (m/w)  \nAls Werkstudent im Bereich Data Science unterst\u00fctzt Du uns vorrangig bei der\nVerarbeitung und Analyse unserer Datens\u00e4tze. Dabei arbeitest Du unter der\nLeitung eines Data Science Director und eng mit unserem Marketing Team\nzusammen. Du lernst dabei verschiedene statistisch-mathematische Modelle\nanzuwenden und umfangreiche Analysekonzepte zu verwerten.  \n  \nDeine Aufgaben:  \n\u00b7 Unterst\u00fctzung des Data Science Teams bei der analytischen Erschlie\u00dfung\nverschiedener Phasen des Kundenlebenszyklus in einem internationalen (auch\nnicht europ\u00e4ischen) Kontext.  \n\u00b7 Unterst\u00fctzung unseres Data Science Teams bei statistischen Analysen entlang\nihrer gesamten Wertsch\u00f6pfungskette: Problemformulierung, Anschluss und\nErkundung m\u00f6glichst passender Daten, Modellbildung, Modellimplementierung.  \n\u00b7 Als Berater/Mitdenker pflegst Du einen engen Kontakt zu unserem Marketing\nTeam, um neue Strategien zu entwickeln.\n\n  \nDein Profil:  \n\u00b7 Du hast eine Vorliebe f\u00fcr Datens\u00e4tze sowie Modelle und interessierst Dich\nf\u00fcr gesamtheitliche analytische Herangehensweisen mit einem Bias f\u00fcr\nPragmatismus.  \n\u00b7 Codes und Simulationen sind eine Leidenschaft von Dir.  \n\u00b7 Du hast Kenntnisse in mindestens einem der folgenden Programme:\n\u201cLanguages\u201d-C, Mathematica, MatLab, Python, R, SAS.  \n\u00b7 Deine Sprachkenntnisse in Englisch sind sehr gut.\n\n  \nDeine Aussichten:  \n\u00b7 Langfristiges Mitwirken (idealerweise 2 Jahre) als vollwertiges Mitglied in\neinem tollen Team mit der M\u00f6glichkeit, Dich mit Deinen pers\u00f6nlichen St\u00e4rken\nindividuell einzubringen und Branchenkompetenz sowie technisches Knowhow\naufzubauen.  \n\u00b7 Spannende Einblicke beim weltweit f\u00fchrenden Anbieter f\u00fcr H\u00f6rbuch-Downloads\nin einem stark expandierenden, an Amazon angelehnten, internationalen und sich\npermanent bewegenden Umfeld und einer au\u00dfergew\u00f6hnlich sch\u00f6nen Arbeitsumgebung\nin Berlin Mitte.  \n\u00b7 Wir suchen eine Unterst\u00fctzung f\u00fcr ca. 20 Stunden in der Woche. Verg\u00fctet wird\nDeine T\u00e4tigkeit mit 12,- \u20ac pro Stunde. Die Abrechnung erfolgt per\nLohnsteuerkarte.  \n  \nTrifft dieses Profil auf Dich zu und hast Du Lust, mit uns zusammen die\nEntwicklung eines neuen Marktes aktiv voranzutreiben? Dann freuen wir uns Dich\nkennenzulernen! Bitte sende uns Deine vollst\u00e4ndigen Bewerbungsunterlagen mit\nAnschreiben, Lebenslauf, sowie ggf. Arbeits- oder Praktikumszeugnissen \u00fcber\nunser Bewerbungstool.  \n  \nDurch Zusendung Deiner Unterlagen stimmst Du der Speicherung Deiner Daten in\nunserem Bewerbungstool zu. Deine Daten werden ausschlie\u00dflich f\u00fcr den\nBewerbungsprozess genutzt.", 
+        "tags": [
+            "ForbesMVB"
+        ], 
+        "url": "http://www.amazon.jobs/jobs/339323/werkstudent-data-science", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    13.41053, 
+                    52.52437
+                ]
+            ]
+        }, 
+        "industry": "Retail - Discretionary", 
+        "title": "Werkstudent \u2013 Data Science", 
+        "spider": "amazon", 
+        "subIndustry": "E-Commerce Discretionary", 
+        "lastSeen": "2015-08-05T00:16:52.705000", 
+        "jobLocation": [
+            "DE, Berlin"
+        ], 
+        "identifier": "339323", 
+        "hiringOrganization": [
+            "Amazon", 
+            "Business Intelligence"
+        ], 
+        "firstSeen": "2015-07-25T00:02:12+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "**The Company**\n\nOur client is one of Australia's leading and largest Financial Services\nOrganization that has expanded its operations beyond the Australian shores.\nThe organization has a large range of financial offerings to both public and\nprivate clients across the retail, corporate and institutional banking areas.\nThey have a very large technical footprint that combine a dynamic range of\ntechnologies in a complex landscape. Due to internal promotion they now\nrequire a technical (Infrastructure/Operations) Lead Capacity (demand\nmanagement) and Performance Engineer with a passion for Data Science/Analytics\nand Modelling as it relates to the Resiliency and High Availability of\nbusiness critical banking systems.\n\n**The Group**\n\nThis Performance team has a very large remit, to evaluate and improve bank\nwide systems with a focus on high availability, performance, scalability and\nreliability. Comprised of Solution Performance Engineers they are accountable\nfor the availability health of key production systems with a particular focus\non governing, evaluating, managing and influencing non-functional risks &\nattributes across the solution delivery life cycle (requirements, design &\narchitecture, testing). This accountability traverses to the production\nenvironment with accountability for capacity planning and providing quality\nassurance over the accuracy of tactical performance, capacity and availability\nanalytics delivered by other teams.\n\n**The Role**\n\nAfter laying the groundwork and initiating the creation of an advanced\nCapacity and Performance based algorithmic analytics and modelling system for\nthe banks performance group the current incumbent is moving into a more senior\nposition. To fill these shoes, so to speak, you'll need a thorough\nunderstanding of IT Performance, Resilience, High Availability and Capacity\n(Demand Management) across business critical banking/transactional systems as\nit relates to the world of Operations (DevOps). To be successful in the\nperformance group you'll need a holistic/enterprise understanding of how all\ntechnology layers, Infrastructure (OS, Database, Networks),\nMiddleware/Messaging and Application, interrelate and ultimately affect large,\nhigh volume web portals. Essentially you'll be responsible for the analysis of\nthese systems and to work with the business to optimize, eliminate bottlenecks\nand project future usage. There's a large emphasis on Data Science (Big\nData)/Analytics and modelling so proficiency in this area along with related\ntechnologies like: R, Hadoop, Haskell or similar are essential.\n\n**Skills required**\n\n  * Expertise in IT Capacity and Performance: Data Science/Analytics, Statistics and Modelling. \n  * An Infrastructure/Operations (DevOps) background with a deep understanding of how all technology layers: Infrastructure (OS, DB, NW), Middleware/Messaging and Application interrelate. \n  * A strong base in Infrastructure or Operations (Support) ideally DevOps. \n  * Deep understanding of systems architecture in large complex organisations. \n  * Experience performance tuning large, complex web portals and/or Back End systems - experience in Telco, Gaming/Betting, Transactional, Trading Systems would be advantageous. \n  * Technically proficient with Data Science/Big Data Tools: R, Ruby, Hadoop, Haskell or similar. \n  * Technology related Degree/Diploma and/or industry relevant certifications.\n  * Full, unrestricted Australian work rights (Citizen/PR).\n\n**Keywords: **Capacity Planning, Capacity Lead, High Availability, Infrastructure, Performance Metrics, Tuning, Optimisation, High Volume Portals, Data Science/Analytics, Statistics, Modelling.\n\nIf this position interests you, please submit your resume via the 'Apply Now'\nbutton or email. Or for further information please contact **Daniel** quoting\nreference **CAPSTONE**.\n\nUnfortunately this opportunity does not offer visa sponsorship so please only\napply if you already have full working rights for Australia.\n\n**All communications will be treated as confidential and the more we know about you the better we can help you ...**\n\niKas International Finance Technology Specialists", 
+        "title": "INFRASTRUCTURE/OPERATIONS CAPACITY ENGINEER - BANKING SYSTEMS", 
+        "url": "http://www.jobserve.com/au/en/search-jobs-in-Sydney,-New-South-Wales,-Australia/INFRASTRUCTURE-OPERATIONS-CAPACITY-ENGINEER-BANKING-SYSTEMS-543577C7303B6CBB/", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    151.20773, 
+                    -33.86482
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveAu", 
+        "employmentType": [
+            "Contract/Permanent"
+        ], 
+        "lastSeen": "2014-12-16T03:50:15", 
+        "jobLocation": [
+            "Sydney CBD, Australia"
+        ], 
+        "identifier": "543577C7303B6CBB", 
+        "hiringOrganization": [
+            "iKas International"
+        ], 
+        "firstSeen": "2014-12-09T04:13:50+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "SAP SE", 
+        "description": "AE-59241749-EN-14-002 Consulting 0% - 50% Regular Full Time SAP is the global\nmarket leader for business software and thus contributes a considerable part\nof the world's economic power grid. At SAP you get your chance to put your\nideas into action with maximum impact.SAP is the largest European software\ncompany with around 50,000 employees all over the world, providing business\napplication software to companies of all industries and all sizes. Around a\nthird of these employees work in the SAP Services division, which offers\nconsulting, training, and technical support services to SAP customers. SAP\nConsulting is currently expanding a team that provides advanced analytics\nservices to customers, helping them to improve their business based on\nscientific analysis of large amounts of business data. A Data Scientist is\nresponsible for supporting customers to define and analyze complex business\nproblems, implementing predictive analytics models as well as leveraging his\nextended SAP team for use of SAP Big Data technologies to provide advanced\nanalytics solutions that successfully address customers' needs The Data\nScientist works in a diverse and geographical dispersed SAP team environment\nthat includes Science & Technology Consultants, Business Industry experts, and\nSales & Marketing organizations. This position requires the ability to work\nand communicate as a part of a high performance team in an international\nenvironment.- Experience in developing software, in at least one of the\ntechnologies/products from each of the following areas: - Data\nwarehousing/reporting/ETL: HANA, Sybase, ORACLE - Database programming: SQL,\nPL/SQL, T-SQL - Programming: Java, C++, ABAP - Mathematical modeling: MatLab,\nPredictive Workbench/SPSS, SAS, R, Kxen (SAP Infinite Insight), SAP Predictive\nAnalytics, SAP HANA Predictive Analytics Library - Experience in working in\nproject teams. Several projects full lifecycles desired. - Familiar with\nProject Management methodologies and deliverables (PMI, Prince 2, Agile) -\nRelevant industry experience (Retail, Consumer Products, Utilities, Finance,\nBanking, Automotive or Public Sector) is a plus In addition to a strong data\nscience and analytics background, the position requires strong problem-solving\nand consulting capabilities with the ability to communicate effectively in an\ninternational team environment. The ideal candidate covers a major part of the\nfollowing expertise areas: Background: - Strong in mathematics and statistics\n- Strong software development experience - Experience in mathematical modeling\nand optimization - Excellent understanding of statistical and technical\nmethods to produce relevant information out of huge amounts of data -\nExperience working on Big Data & Analytics projects - Experience with Business\nAnalytics technologies - Experience working with business users - Experience\nfacilitating workshop - Experience working in an international environment\nPersonal skills: - Willingness and ability to learn quickly new mathematical\nor technical methods with little guidance - Willingness to participate in the\nsales process as a subject matter expert - Ability to inspire confidence and\nwork with all levels of client and internal staff - Ability to deliver clear,\nconcise presentations to non-scientific audiences - High energy, clear goal\norientation and strong work ethic; \"can do\" attitude - Excellent verbal and\nwritten communication skills. English at advanced level is a must Customer\nfacing skills: - Ability to capture customer requirements and translate them\ninto software specifications - Ability to present complex information in a\nclear and precise manner; with non-technical audience - Professional\nappearance and demeanor - Presentation skills - ability to create professional\npresentations, handle proper setup of location, use technical/visual aid, have\nadequate body language and vocabulary, proactively engage with customer and\nhandle questionsSalary grade: T3/T4", 
+        "tags": [
+            "DAX", 
+            "Consulting", 
+            "ForbesMVB"
+        ], 
+        "url": "http://jobs.sap.com/job/Virtual-Data-Scientist-for-Data-Science-Go-To-Market-Technology-Senior-%28Principal%29-Consultant-fm-Job/74592900/", 
+        "hiringOrganization": [
+            "Consulting", 
+            "SAP"
+        ], 
+        "industry": "Software", 
+        "title": "Data Scientist for Data Science Go-To-Market - Technology Senior (Principal) Consultant [f/m] Job", 
+        "spider": "sap", 
+        "subIndustry": "Application Software", 
+        "employmentType": [
+            "Consulting", 
+            "ERP", 
+            "Scientific", 
+            "Database", 
+            "Consultant", 
+            "Contract", 
+            "Engineering", 
+            "Regular Full Time", 
+            "Technology"
+        ], 
+        "lastSeen": "2014-11-05T02:54:17", 
+        "jobLocation": [
+            "Virtual, United Arab Emirates"
+        ], 
+        "identifier": "74592900", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    54.5, 
+                    23.75
+                ]
+            ]
+        }, 
+        "firstSeen": "2014-07-19T20:37:03+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "sector": "Technology", 
+        "group": "Accenture PLC", 
+        "description": "## - Jobbeschreibung\n\n**Skill: Accenture Analytics Analyst**\n\n**Level: Analyst**\n\n**Location: Dubai**\n\n****\n\nJoin Accenture and help transform leading organizations and communities around\nthe world. The sheer scale of our capabilities and client engagements and the\nway we collaborate, operate and deliver value provides an unparalleled\nopportunity to grow and advance. Choose Accenture, and make delivering\ninnovative work part of your extraordinary career.\n\nThe digital revolution is changing everything. It\u2019s everywhere \u2013 transforming\nhow we work and play. Are you leading the way as a digital disrupter?\nAccenture Digital is driving these exciting changes and bringing them to life\nacross 40 industries in more than 120 countries. At the forefront of digital\nyou\u2019ll create it, own it, and make it a reality for clients looking to better\nserve their connected customers and operate always-on enterprises.\n\n**Accenture Digital** is powered by three practices \u2013Mobility, Interactive, and Analytics. As part of our Analytics practice, you\u2019ll deliver analytically-informed, issue-based solutions that help clients make faster, smarter decisions. You\u2019ll play a critical role in helping them tackle complex business issues. \n\n**Accenture Digital Analytics **professionals serve our clients by harvesting strategic insights from data and develop predictive modeling capabilities that target and deliver value across a wide array of corporate functions. Strong candidates will have a consulting or agency background with excellent subject matter expertise and hands-on experience in planning, supporting, implementing and deploying leading-edge digital marketing data & analytics solutions. \n\n**_Job Description_**\n\n**The Analytics Executive **is a client-facing role that interprets, translates, and synthesizes client requirements into a solution that can be configured from a standard or highly-customized set of Accenture offerings. The Analytics Executive operates as a single point of leadership contact or as part of a team (on larger engagements with multiple Executives) accountable from Stage 0 (pre-engagement) to deal closure while leading delivery and/or the transition to the service fulfillment organization(s). \n\n**_Key Responsibilities for the Analytics Executive include, but are not limited to:_**\n\n  * **General Management**\n    * Lead and deliver large scale, complex client engagements that identify, design, and implement creative analytical solutions for large companies \n    * Design, implement and oversee the quality of deliverables produced by our service professionals \n  * **Financials and Resourcing**\n    * Understanding and clearly define the correct inputs required to create cost estimates \n    * Work with national resourcing teams to staff your projects\n\n## + Basis Qualifikationen\n\n**_Basic Qualifications:_**\n\n  * Minimum of Bachelor's Degree required in a related field; strong preference for fields of study in the computer science, engineering, economics, data science and statistics \n  * 2+ years of increasing leadership experience in management consulting or industry \n  * 1+ years of Analytics delivery experience \n  * Experience with Big Data technologies (Hadoop, Cassandra, Hive, Pig, Impala, Parquet, etc.) and large Data Warehouse implementation (Oracle, Teradata, GreenPlum, SAP Hana, Netezza TF)\n  * Experience in CRM Modeling, Analytics & Campaign Execution (SAS, Unica, Teradata, Oracle)\n  * Expertise with the Microsoft Office suite (including advanced Excel skills with embedded Pivot Tables & Macros; advanced PowerPoint usage for storyboard design and presentation) \n\n****\n\n**_Preferred Qualifications:_**\n\n  * **Customer Analytics**\n    * Ability to bring industry leading expertise and point-of-view on customer analytics, CRM, marketing, and customer data platform \n    * Strong understanding of statistical concepts and predictive modeling. (e.g., AI neural networks, multi-scalar dimensional models, logistic regression techniques, machine-based learning, etc.) \n\n  * **Education and Experience**\n    * Master\u2019s degree preferred in computer science, engineering, economics, data science and statistics\n\n**_  \nProfessional Skill Requirements _**\n\n  * Ability to build, manage and foster a team-oriented environment \n  * Ability to work creatively and analytically in a problem-solving environment \n  * Desire to work in an strategy, analytics and technology-driven environment \n  * Excellent communication (written and oral) and interpersonal skills \n  * Excellent leadership and management skills", 
+        "title": "Accenture Digital & Analytics Analyst", 
+        "employmentType": [
+            "Analyst"
+        ], 
+        "industry": "Technology Services", 
+        "tags": [
+            "Consulting"
+        ], 
+        "spider": "accenture", 
+        "subIndustry": "IT Services", 
+        "url": "https://www.accenture.com/de-de/careers/jobdetails?id=00270930_en", 
+        "lastSeen": "2015-07-16T02:21:09.100000", 
+        "identifier": "00270930", 
+        "hiringOrganization": [
+            "Accenture", 
+            "Business & Technology Integration"
+        ], 
+        "firstSeen": "2015-06-10T00:06:42+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Microsoft Corp", 
+        "description": "If you are excited about developers and interested in using data science to\nmake Windows a better platform, this is the job for you. We are a team in the\nOperating System Group using data science principles to more deeply understand\nour developers and further advance the Windows platform. Our mission is to\ntransform the organization into a data driven culture which makes product\ndecisions based on actionable metrics.  \n  \nWe support a larger organization in its quest to improve quality through the\nuse of data. Working in partnership with other developer-focused teams, we\nwill ensure a great developer experience built from excellent tools, a world-\nclass API surface, and a solid Windows platform. We will utilize the Build-\nMeasure-Learn loop to enhance the lives of developers on a world-class Windows\nplatform.  \n  \nThis Senior Software Engineer position will focus on applying machine learning\nand data science techniques to our business questions. Work will include\nconducting data analysis for broad insights, providing insight to our data\nscience projects, and training others on critical tools and processes. Our\nteam is highly iterative and candidates must be willing to try new things,\nlearn from failure, and continually improve.  \n  \nWe are looking for a candidate who is an experienced software engineer who\nalso understands the fundamentals of data science and machine learning. We\nwork closely with other teams making collaborative skills a big plus.  \n  \nRequired Skills:  \n8+ years of software development and/or test development  \nA Computer Science degree or equivalent experience  \nExperience with Machine Learning and Data Science  \n  \nOptional, useful skills:  \nR, IPython, PowerBI, or other data analysis tools  \nKnowledge of the Windows platform (Win32/WinRT)  \nExperience building Windows Apps  \nExperience with C++, C#, JavaScript, and SQL  \n  \nMicrosoft is an equal opportunity employer. All qualified applicants will\nreceive consideration for employment without regard to race, color, gender,\nsexual orientation, gender identity or expression, religion, national origin,\nmarital status, age, disability, veteran status, genetic information, or any\nother protected status.", 
+        "tags": [
+            "ForbesMVB"
+        ], 
+        "url": "http://m.careersatmicrosoft.com/home#job/911355", 
+        "hiringOrganization": [
+            "Testing (engineering)", 
+            "Microsoft", 
+            "Operating systems"
+        ], 
+        "industry": "Software", 
+        "title": "Senior Software Engineer", 
+        "spider": "microsoft", 
+        "subIndustry": "Infrastructure Software", 
+        "lastSeen": "2015-04-17T03:11:02.315000", 
+        "jobLocation": [
+            "Redmond (WA), US"
+        ], 
+        "identifier": "911355", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -122.1238767, 
+                    47.6694141
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-04-11T03:10:58+00:00"
+    }, 
+    {
+        "sector": "Industrials", 
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Siemens AG", 
+        "description": "**Job ID:** 180858  \n**Ort:** M\u00fcnchen  \n**Organisation:** Mobility  \n**Art der Anstellung:** Unbefristet\n\n**Gemeinsam machen wir den Unterschied**\n\nIn der Division Mobility sind die Zugtechnik und die Bahnautomatisierung von\nSiemens  \nzusammengefasst. Die beiden Bereiche adressieren das Wachstumsfeld Smart\nMobility mit  \nintelligenten und integrierten L\u00f6sungen. Dazu geh\u00f6ren unter anderem\nSchienenfahrzeuge und die  \ndazugeh\u00f6rigen Serviceleistungen, Bahnelektrifizierung, Infrastrukturlogistik\nsowie intelligente  \nVerkehrs- und Transportsysteme.\n\nWerden Sie jetzt Teil unseres Teams von Mobility als  \nData Science Engineer (m/w) in M\u00fcnchen.\n\n**Ihr neues Aufgabenfeld \u2013  \nherausfordernd und zukunftsorientiert**\n\n  * Entwicklung innovativer L\u00f6sungen zur Datenanalytik bestehend aus entsprechenden Technologien, Algorithmen und Applikationen \u2013 von der Ideenentwicklung \u00fcber Prototypen bis hin zu skalierbaren industriellen Systemen\n  * Identifizierung und Bewertung unbekannter Beziehungen in den Daten vom Fahrzeugen, Infrastruktur und anderen Daten um businessrelevante Erkenntnisse zu gewinnen\n  * Durchf\u00fchrung explorativer Datananalysen in komplexen Datenstrukturen\n  * Erstellung wiederverwendbarer analytischer Modelle und Operationalisierung solcher Modelle in der Analytikplattform\n  * Erstellung entsprechender Visualisierungen f\u00fcr die Ergebnisse derartiger analytischer Modelle\n  * Zusammenarbeit mit Businessverantwortlichen zum Verst\u00e4ndnis der Gesch\u00e4ftsanforderungen und zur Identifizierung von Gesch\u00e4ftsm\u00f6glichkeiten durch Datenanalytik\n  * Implementierung und Management von \u201cBig Data\u201d-Projekten mit dem Fokus auf moderner Datenanalytik, maschinellem Lernen und industriellen Applikationen\n\n**Ihre Qualifikationen \u2013  \nfundiert und ad\u00e4quat**\n\n  * Erfolgreich abgeschlossenes Hochschulstudium der Informatik, Mathematik, Physik, Ingenieurswissenschaften oder \u00e4hnlicher Fachrichtungen\n  * Mehrj\u00e4hrige Erfahrung im Kontext von \u201cData science\u201d und moderner Datenanalytik\n  * Starke Erfahrungen in Technologien, Algorithmen und Methoden zur Datenanalytik, insbesondere im Umfeld Data Mining, maschinellem Lernen und Simulation\n  * Kenntnissen relationaler Datenbanken (SQL) und NoSQL-Datenbanken bzw. Hadoop, sowie Programmierkenntnisse insbesondere in Java, C# oder C++\n  * Erfahrung in der Nutzung analytischer Tools und Systeme, insbesondere R und anderer Arbeitswerkzeuge zum Data Mining\n  * F\u00e4higkeit Schlussfolgerungen aus Daten zu ziehen und entsprechende Handlungen vorzuschlagen\n  * Starke Pr\u00e4sentations- und Kommunikationsf\u00e4higkeiten, insbesondere die F\u00e4higkeit komplexe Analysen in klarer und umsetzbarer Form den Gesch\u00e4ften zu kommunizieren\n  * Selbstmotivation, Initiative, Durchsetzungsf\u00e4higkeit und starke Ergebnisorientierung  \n------  \n  \n**So treten Sie mit uns in Kontakt \u2013 einfach und direkt**\n\n**www.siemens.de/m-de**  \nwenn Sie vor Ihrer Bewerbung mehr \u00fcber den Gesch\u00e4ftsbereich erfahren m\u00f6chten  \n**+49 (9131) 7-35335**  \nwenn Sie erste Fragen gern pers\u00f6nlich mit unserem Recruiting Team kl\u00e4ren\nm\u00f6chten.  \nAnsprechpartnerin dieser Stellenausschreibung ist Frau Carolin Henneberger  \n**www.siemens.de/bewerbung**  \nwenn Sie mehr Informationen \u00fcber den Bewerbungsablauf und unsere Leistungen\nf\u00fcr Mitarbeiter  \nerfahren m\u00f6chten. Bei gleicher Qualifikation ber\u00fccksichtigt Siemens\nschwerbehinderte Bewerber  \nund diesen gleichgestellten Menschen bevorzugt.", 
+        "tags": [
+            "DAX", 
+            "ForbesMVB"
+        ], 
+        "url": "https://jobsearch.siemens.biz/career?career%5fns=job%5flisting&company=Siemens&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=180858", 
+        "hiringOrganization": [
+            "Siemens", 
+            "Engineering", 
+            "Mobility"
+        ], 
+        "industry": "Electrical Equipment", 
+        "title": "Data Science Engineer (m/w)", 
+        "spider": "siemens", 
+        "subIndustry": "Electrical Power Equipment", 
+        "employmentType": [
+            "Vollzeit", 
+            "Experienced Professional", 
+            "Unbefristet"
+        ], 
+        "lastSeen": "2014-12-23T02:59:53", 
+        "jobLocation": [
+            "Deutschland, M\u00fcnchen"
+        ], 
+        "identifier": "180858", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    11.5939413306902, 
+                    48.1781156
+                ]
+            ]
+        }, 
+        "firstSeen": "2014-10-08T03:06:15+00:00"
+    }, 
+    {
+        "sector": "Communications", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Vodafone Group PLC", 
+        "description": "!*! Skills:- // Primary Skills:- Business Anlaysis, Telecom, SAS // Secondary\nSkills :- SQL,, Statistics // // Role Purpose:- // // To understand business\nrequirement of Group/OpCo // To identify and guide data team for right\ntables/data sets/analysis which will help in completing piece of analysis or\nproject // To develop expert level understanding of database of OpCo Business\nknowledge // To have SAS EG/EM, Excel/PPT or Teradata SQL expertise to present\nfinding back to UK team // To perform validation & present findings with\nbusiness logics // Key accountabilities:- // // Regular presentation of\nanalysis/project to Product/Pricing/CVM management team in UK with right\nBusiness , data & statistical inputs. // Strategic as analysis/insights will\nbe used to drive business decisions of Product/Pricing/CVM managers. // High\ninteraction with UK Enterprise team // Lead team of data anayst, insight\nspecialst & statistical modeller in completing analysis/projects. // Create\nPOC in Sentiment Analytics/Big Data/ Data Science // Should have background in\nTelecom or Data Science. // Behavioral/ Personality Specifications required:\n// // Excellent interpersonal & presentation skill // Detail conscious,\nProblem solver // Innovative & logical thinker // Ability to work under\npressure to tight deadlines. // Team player with positive attitude // Good\ncommunication skills both oral & written!*! Desired Profile:- // Essential:-\n// // 5+ years professional experience in Excel skill and Strategic/Commercial\nAnalysis // 5+ years of experience in telecom domain // Experience in\nAnalytics Modelling using SAS EG/EM // Desired:- // // 5+ years in SAS // 5+\nyears of SQL/Terada Environment // Excellent data interpretation skills &\nexperience of working with international clients // Education/ Technical/\nFunctional Qualifications and/or Professional Certifications: // Essential:-\n// // B.E/B.Tech (from reputed institute), MBA // Statistics // Desired:- //\n// Analytics Certification", 
+        "title": "Manager - CVM Anlaytics", 
+        "url": "https://vodafone.taleo.net/careersection/2a/jobdetail.ftl?job=VOD0006LG&lang=en", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    73.7655114, 
+                    18.6566342
+                ]
+            ]
+        }, 
+        "industry": "Telecom", 
+        "spider": "vodafoneEn", 
+        "subIndustry": "Telecom Carriers", 
+        "employmentType": [
+            "Permanent", 
+            "Full-time"
+        ], 
+        "lastSeen": "2015-07-15T07:11:24.170000", 
+        "jobLocation": [
+            "India, Pune"
+        ], 
+        "identifier": "737145", 
+        "hiringOrganization": [
+            "Vodafone", 
+            "Vodafone Shared Services India (Ame_IN-Mahar-Pune-001) Grd to 4th Floor", 
+            "Cluster D Wing - 3", 
+            "EON Free Zone", 
+            "Kharadi Pune", 
+            "411014"
+        ], 
+        "firstSeen": "2015-05-20T03:02:11+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Bundesverwaltungsamt", 
+        "description": "## T\u00e4tigkeitsprofil:\n\nUnsere Mission: Wir erforschen das Leben und die Erde im Dialog mit den\nMenschen.\n\nDas** Museum f\u00fcr Naturkunde Berlin (MfN)** ist mit seinen \u00fcber 30 Millionen\nSammlungsobjekten eines der gr\u00f6\u00dften Naturkundemuseen weltweit.\nZusammengetragen als Beleg f\u00fcr die Diversit\u00e4t der Natur, sind seine Sammlungen\nzugleich Zeugnisse der Wissenschafts- und der Kulturgeschichte. Das Museum f\u00fcr\nNaturkunde Berlin ist als Forschungseinrichtung und Stiftung des \u00d6ffentlichen\nRechts seit 1. Januar 2009 Mitglied der Leibniz-Gemeinschaft.\n\n**Bezeichnung: Softwareentwickler/in**\n\n**Arbeitszeit: **100 v.H.d.regelm. w\u00f6chentlichen Arbeitszeit\n\n**Befristung:** Zum n\u00e4chstm\u00f6glichen Zeitpunkt und ist befristet bis 31.01.2016  \nDrittmittelfinanzierung\n\n**Entgeltgruppe:** E11 TV-L Berlin\n\n**Projektbeschreibung:**  \nDas DFG-gef\u00f6rderte Projekt \u201eGerman Federation for the Curation of Biological\nData (GFBio)\u201d (http://www.gfbio.org/) arbeitet am Aufbau einer grundlegende\nForschungsinfrastruktur, die den Austausch von biologischen und\numweltbezogenen Forschungsdaten erm\u00f6glichen bzw. vereinfachen soll. Das\nProjekt befindet sich derzeitig in einer 18-monatigen Pilotphase.\n\nDas Ziel des Forschungsbereichs \u201eDigitale Welt und Informationsmanagement\u201c ist\ndie Implementierung einer zukunftsf\u00e4higen Architektur f\u00fcr naturkundliche Daten\nund Datenrepositorien, welche neue M\u00f6glichkeiten zur Beantwortung von\nForschungsfragen sowohl im Bereich \u201eData Science\u201c als auch \u201ePublic Engagement\nwith Science\u201c er\u00f6ffnet.\n\nDie erfolgreiche Bewerberin/der erfolgreiche Bewerber wird folgende\n**Aufgaben** im Rahmen des Projekt GFBio am MfN \u00fcbernehmen:  \n\u2022 Entwicklung GFBio relevanter Softwaretools (BioCASe Monitor Service, Specify\n6 Workbench) und Anfertigen einer l\u00fcckenlosen Dokumentation  \n\u2022 Technische Betreuung und (konzeptionelle) Weiterentwicklung der\nDatenpublikation am MfN  \no Weiterentwicklung einer Webschnittstelle zur langfristigen Publikation von\nGFBio Daten des MfN (stabile URIs mit HTML und RDF Landing Pages)  \no Durchf\u00fchrung relevanter Anpassungen am MfN Datenmapping und\nWeiterentwicklung eines Transformationsschemas (ABCD-Schema zum GFBio\nZielschema)  \no Vernetzung des MfN als internationales Data Center  \n\u2022 Teilnahme an Projekttreffen, Telefonkonferenzen und Mitarbeit an\nFortschrittsberichten\n\n## Anforderungsprofil:\n\n**Anforderungen:**  \n\u2022 Abgeschlossenes Hochschulstudium der Informatik, Geo- oder Bioinformatik\noder eines ingenieur- bzw. naturwissenschaftlichen Studienganges, welcher\nAspekte dieser Disziplinen beinhaltet, oder mindestens 3-j\u00e4hrige\nBerufserfahrung in zuvor genannten Bereichen und Mitwirkung in entsprechenden\nReferenzprojekten  \n\u2022 Gute Kenntnisse in der Programmierung webbasierter Software  \n\u2022 Kenntnisse mind. einer h\u00f6heren Programmiersprache (vorzugsweise Java)  \n\u2022 Kenntnisse im Umgang mit Source Code Repositorien  \n\u2022 Sehr gute Kenntnisse in der Skriptsprache PHP  \n\u2022 Gute Kenntnisse in der Verwendung von SQL-Datenbankmanagementsystemen\n(vorzugsweise MySQL)  \n\u2022 Kenntnisse in der Verarbeitung von XML und Erstellung von XSLT  \n\u2022 Erfahrungen mit Austauschstandards naturkundlicher Sammlungsdaten (z.B.\nABCD, ABCD-EFG, DarwinCore)  \n\u2022 Interesse an der Arbeit mit forschungs- und sammlungsbezogenen Daten\nnaturkundlicher Forschungsmuseen  \n\u2022 Erfahrungen im F\u00fchren einer Projektdokumentation und im Verfassen von\nprojektbezogenen Fortschrittsberichten  \n\u2022 Gute Kommunikations- und Pr\u00e4sentationsf\u00e4higkeiten  \n\u2022 Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift  \n  \n**Hinweise:**  \nZur Sicherung der Gleichstellung sind Bewerbungen qualifizierter Frauen\nbesonders willkommen. Schwerbehinderte Bewerber/innen werden bei gleicher\nEignung bevorzugt.\n\nBewerbungen mit den \u00fcblichen Unterlagen (Lebenslauf, Zeugnisse) sowie einem\nAnschreiben mit Erl\u00e4uterungen zu Ihrer Erfahrung sind **bis zum 11.05.2015\nunter Angabe der Kennziffer 21/2015 **an Museum f\u00fcr Naturkunde,\nPersonalreferat, Invalidenstra\u00dfe 43, 10115 Berlin zu rich-ten.\n\nBitte beachten Sie, dass eine R\u00fccksendung von Unterlagen und Bewerbungsmappen\nnur mit beigef\u00fcgtem R\u00fcckumschlag erfolgt. Zu unserer Entlastung bitten wir Sie\nvon der Zusendung von Bewerbungsmappen abzusehen, und mit der Bewerbung\nausschlie\u00dflich Kopien in einfacher gehefteter Form einzureichen.\n\n**Weitere Informationen: **  \nFamilienpolitik: Das Naturkundemuseum Berlin hat sich die F\u00f6rderung der\nVereinbarkeit von Beruf und Familie zum Ziel gesetzt und wurde hierf\u00fcr mit dem\nZertifikat zum audit berufundfamilie der audit berufundfamilie gGmbH- eine\nInitivative der Gemeinn\u00fctzigen Hertie-Stiftung - ausgezeichnet.  \nWeiterf\u00fchrende Informationen finden Sie unter: http://www.naturkundemuseum-\nberlin.de/institution/vereinbarkeit-von-beruf-und-familie/", 
+        "title": "Soft\u00adwa\u00adre\u00adent\u00adwick\u00adler/in", 
+        "url": "http://www.bund.de/IMPORTE/Stellenangebote/EDITOR/Museum-fuer-Naturkunde-Berlin/2015/04/1212998.html?nn=4642046&type=0&searchResult=true", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    13.3888599, 
+                    52.5170365
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "bund", 
+        "employmentType": [
+            "Vollzeit", 
+            "Befristet", 
+            "Gehobener Dienst"
+        ], 
+        "lastSeen": "2015-05-18T01:13:16.136000", 
+        "jobLocation": [
+            "Berlin"
+        ], 
+        "identifier": "1212998", 
+        "hiringOrganization": [
+            "Museum f\u00fcr Naturkunde Berlin"
+        ], 
+        "firstSeen": "2015-04-28T01:02:53+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "ZEIT ONLINE", 
+        "description": "\n\nDie Hochschule der Medien in Stuttgart bildet Medienspezialisten f\u00fcr\nUnternehmen, Organisationen und Institutionen aus. In 16 Bachelor- und 7\nMasterstudieng\u00e4ngen bieten wir derzeit \u00fcber 4.500 Studie\u00adren\u00adden attraktive\nStudienm\u00f6glichkeiten.  \n  \nIn der Fakult\u00e4t Information und Kommunikation ist im Studiengang\nWirtschaftsinformatik und digitale Medien folgende Professur zu be\u00adsetz\u00aden:\n\n# PROFESSUR F\u00dcR WIRTSCHAFTS\u00adINFORMATIK, INSBESONDERE  \nBIG DATA UND DATA SCIENCE\n\n## ab Wintersemester 2015/2016  \nBesoldungsgruppe W2, Kennziffer SS1503P\n\nWir suchen eine Wirtschaftsinformatikerin/einen Wirtschafts\u00adin\u00adfor\u00admatiker mit\nausgewiesener theoretischer und praktischer Kompetenz in den Themenbereichen\nData Science, Data-Warehouse-Archi\u00adtek\u00adturen, Big-Data-Algorithmen sowie\nPredictive Analytics, die/der u. a. folgende Fachinhalte in Forschung und\nLehre vertritt:  \n\n  * Datenbanken\n  * Analytische Informationssysteme\n  * Business Intelligence\nF\u00fcr inhaltliche Fragen steht Ihnen Herr Prof. Dr. Peter Lehmann per E-Mail an gerne zur\nVerf\u00fcgung.  \n  \nDie F\u00e4higkeit zum Angebot von Lehrveranstaltungen in englischer Sprache wird\nerwartet. Dar\u00fcber hinaus wird eine ein\u00adschl\u00e4\u00adgige Promotion gefordert. Die\nweiteren Einstellungs\u00advo\u00adraus\u00adsetzungen (\u00a747 LHG), zus\u00e4tzliche Informationen\n\u00fcber diese Pro\u00adfessur und un\u00adser Bewerbungsportal finden auf un\u00adserer Homepage\nunter  \n  \n**  \n  \nWir freuen uns auf Ihre Bewerbung. Diese sollte **_ausschlie\u00dflich_** \u00fcber\nunser Bewerberportal erfolgen und bis zum **20\\. April 2015** bei uns sein.\n\n**Bewerbungsschluss: 20.04.2015**\n\nBewerbungsschluss: 20.04.2015 Erschienen am 26.03.2015 in", 
+        "title": "Professur (W2) f\u00fcr Wirtschaftsinformatik, insbesondere Big Data und Data Science", 
+        "employmentType": [], 
+        "hiringOrganization": [
+            "Hochschule der Medien Stuttgart (HdM)"
+        ], 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "zeit", 
+        "url": "http://jobs.zeit.de/jobs/stuttgart_professur_w2_fuer_wirtschaftsinformatik_insbesondere_big_data_und_data_science_112223.html", 
+        "lastSeen": "2015-04-20T01:23:24.231000", 
+        "jobLocation": [
+            "Stuttgart"
+        ], 
+        "identifier": "112223", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    9.1800456, 
+                    48.7784931
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-04-02T02:32:59+00:00"
+    }, 
+    {
+        "sector": "Financials", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Deutsche Bank AG", 
+        "description": "# Vice President - MET Credit Quant\n\n**Job ID: **3113380  **Full/Part-Time: **Full-time  \n------  \n**Regular/Temporary: **Regular  **Listed: **2015-06-04  \n**Location: **Mumbai, India  \n  \nA Passion to Perform. It\u2019s what drives us. More than a claim, this describes\nthe way we do business. We\u2019re committed to being the best financial services\nprovider in the world, balancing passion with precision to deliver superior\nsolutions for our clients. This is made possible by our people: agile minds,\nable to see beyond the obvious and act effectively in an ever-changing global\nbusiness landscape. As you\u2019ll discover, our culture supports this. Diverse,\ninternational and shaped by a variety of different perspectives, we\u2019re driven\nby a shared sense of purpose. At every level agile thinking is nurtured. And\nat every level agile minds are rewarded with competitive pay, support and\nopportunities to excel.\n\nIn the world\u2019s financial markets, Deutsche Bank CIB: Markets is an\nacknowledged leader. We regularly win awards and top industry polls for our\nhigh-performing investment banking products and services. Our 6,400 employees\naround the world have a reputation for being highly focused. We provide\nclients with unique insights, vast experience and an unparalleled level of\nservice.\n\nOur top-ranked business offerings include bonds, equities, FX, money market\nproducts, commodities and all forms of derivatives and structured investment,\nfinancing and risk management products. We are active throughout Europe, North\nAmerica, Asia and all the world's emerging markets.\n\n## Position Overview\n\n**CIB Centre Overview:**\n\nDeutsche CIB Centre, a Deutsche Bank Group company, provides extensive\nstructuring, quantitative analytics, platform development and execution\nsupport from its location in Mumbai and regulated offices in the US and the\nUK. With over 550 professionals performing cutting-edge modeling, quant,\nanalytics, and research, Deutsche CIB Centre assists Deutsche Bank\u2019s Corporate\nand Investment Banking teams around the globe in delivering innovative\nfinancial solutions to international clients in less time and at lower cost.\nThis global reach provides you with huge opportunities to develop your career\nlocally as well as globally.\n\n**Job Summary:**\n\nGlobal Client Solutions (GCS) sits within the GFX business within FIC. It is\nresponsible for the development and management and revenue growth of GFX\u2019s\nclient facing platforms for the purpose of distributing liquidity and\nattracting transactional flow. The Maestro is one of the core GCS Platform.\nThis role is for Trading support of the Maestro business.\n\n**Responsibilities:**\n\nThe Maestro business requires a follow-the-sun model in terms of trading and\nmonitoring capability. The Trading function, shared between the Hubs and DB\nCenters, relates to the technical aspects of the services, system functioning,\nmarket risk management and final pricing and terms. Customization and\nintegration of the system with client data also fall upon the trading\nfunction.\n\nDB Center resource would have primary responsibility for\n\n  * Monitoring system orders, proper functioning of the hedging and client trade capture infrastructure\n  * Initiation of all non-automated tasks (e.g. reporting, procedures within the tactical infrastructure)\n  * Risk monitoring, and basic client support (trade-related, non-technical)\n\nThis role\u2019s responsibilities would ideally expand to VBA coding/modifications\nin the current infrastructure and the scripting that will drive certain\nfeatures of the future strategic architecture.\n\n**Candidate Specification:**\n\n  * Candidate should be a numeric, very detail oriented and vigilant individual\n  * An experienced coder / Information Systems oriented individual would be strongly favored\n  * Experience in FX markets, treasury, or trading support a plus as would be any experience in data science related projects.\n  * Advanced Level Excel Skills including Macro and Automation\n  * Experience with Microsoft Access\n  * SQL preferred but not mandatory\n  * Excellent communication and inter personal skills\n\nIn return, Deutsche Bank offers a challenging and rewarding career where your\ncontribution is valued and rewarded. We have an inclusive and friendly working\nenvironment coupled with excellent facilities and benefits.\n\nDeutsche Bank is an equal opportunity employer who seeks to recruit and\nappoint the best available person for a job regardless of marital / civil\npartnership status, sex (including pregnancy), age, religion, belief, race,\nnationality and ethnic or national origin, colour, sexual orientation or\ndisability.\n\nPlease let us know if you require any adjustments to enable you to apply or\nattend an interview. If you would like to discuss your requirements, or have\nany concerns about the application process, please contact your recruiter.", 
+        "tags": [
+            "DAX"
+        ], 
+        "employmentType": [
+            "Vollzeit", 
+            "Unbefristet", 
+            "Vice President"
+        ], 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    72.8327112, 
+                    18.9523804
+                ]
+            ]
+        }, 
+        "industry": "Banking", 
+        "title": "Vice President - MET Credit Quant", 
+        "spider": "deutschebank", 
+        "subIndustry": "Diversified Banks", 
+        "url": "https://jobsearch.db.com/index.php?ac=jobad&id=22941", 
+        "lastSeen": "2015-06-17T02:06:11.313000", 
+        "jobLocation": [
+            "Indien, Mumbai"
+        ], 
+        "identifier": "22941", 
+        "hiringOrganization": [
+            "Deutsche Bank", 
+            "Structuring"
+        ], 
+        "firstSeen": "2015-06-09T03:58:57+00:00"
+    }, 
+    {
+        "sector": "Consumer Discretionary", 
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Daimler AG", 
+        "description": "#### Tasks\n\nDie Abteilung ITP/AC verantwortet die Informationsverarbeitung in der\nAuftragseinplanung, der Produktionssteuerung und der PKW-Auslieferung der\nMercedes-Benz-Werke.  \nZur Datenanalyse der Produktionsdaten sind verschiedene Themen im Bereich Big\nData, Data MIning und Data Science vorhanden.  \nIhre Aufgaben umfassen:  \nEinarbeitung in fachlichen Fragestellungen aus der Produktion  \nEinarbeitung in ausgew\u00e4hlte Algorithmen zur Datenanalyse  \nErstellung einer Prototyp-Implementierung des Algorithmuses zur Datenanalyse\nDokumentation, Analyse und Bewertung der Ergebnisse vor dem Hintergrund der\nfachlichen Anforderungen  \nErstellung einer Abschlu\u00dfpr\u00e4sentation\n\n#### Qualifications\n\nStudiengang: Informationstechnische Studieng\u00e4nge  \nSprachkenntnisse: Deutsch und Englisch in Wort und Schrift  \nIT-Kenntnisse: SQL-Datenbanken, Java-Programmierung, algorithmisches Denken  \nPers\u00f6nliche Kompetenzen: engagierte Arbeitsweise und ausgepr\u00e4gte\nTeamf\u00e4higkeit, selbst\u00e4ndige und strukturierte Arbeitsweise\n\n#### Additional information\n\nDie T\u00e4tigkeit ist in Vollzeit, befristet auf 6 Monate\n\nSie haben Interesse? Dann bewerben Sie sich bitte ausschlie\u00dflich online \u00fcber\nunsere Homepage mit Ihren vollst\u00e4ndigen Unterlagen als Anhang (Lebenslauf mit\nAngabe der Staatsangeh\u00f6rigkeit, Immatrikulationsbescheinigung, aktueller\nNotenspiegel, relevante Zeugnisse und Nachweis \u00fcber die Regelstudienzeit).  \nAngeh\u00f6rige von Staaten au\u00dferhalb des europ\u00e4ischen Wirtschaftsraums schicken\nggf. bitte Ihre Aufenthalts-/Arbeitsgenehmigung mit.  \n  \nFragen zur Stelle beantwortet Ihnen gerne Herr Dr. Bell aus dem Fachbereich,\nunter der Telefonnummer +49 7031/90-70734 bzw. siegfried.bell@daimler.com.  \nFragen zum Bewerbungsprozess beantwortet Ihnen gerne HR Services unter der\nTelefonnummer +49 711/17-99544.", 
+        "tags": [
+            "DAX", 
+            "ForbesMVB"
+        ], 
+        "url": "http://jobs.daimler.com/index.php?ac=jobad&id=20157", 
+        "hiringOrganization": [
+            "Sindelfingen, Mercedes-Benz Werk", 
+            "IT / Telekommunikation", 
+            "Daimler"
+        ], 
+        "industry": "Automotive", 
+        "title": "Abschlussarbeit ab Juni 2015 im Bereich Big Data und Data Science", 
+        "spider": "daimler", 
+        "subIndustry": "Automobiles", 
+        "employmentType": [
+            "Thesis"
+        ], 
+        "lastSeen": "2015-05-08T00:52:08.592000", 
+        "jobLocation": [
+            "Sindelfingen"
+        ], 
+        "identifier": "142193", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    9.0036877, 
+                    48.7084215
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-04-15T01:03:59+00:00"
+    }, 
+    {
+        "sector": "Health Care", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Bayer AG", 
+        "description": "Country Germany Location Berlin Division Bayer HealthCare Contact us Phone +49\n214 30 99779 www.karriere.bayer.de Reference Code 0000134291 Bayer welcomes\napplications from all individuals, regardless of racial or ethnic origin, skin\ncolor, nationality, religion, philosophy, gender, age, disability, appearance\nor sexual identity. We are committed to treating all applicants fairly and\navoiding discrimination. Bayer is a global enterprise with core competencies\nin the fields of health care, agriculture and high-tech polymer materials. As\nan innovation company, it sets trends in research-intensive areas. Bayer\u2019s\nproducts and services are designed to benefit people and improve their quality\nof life.(cid:160)Bayer HealthCare combines the global activities of the Animal\nHealth, Consumer Care, Medical Care and Pharmaceuticals divisions. Its aim is\nto discover, develop, manufacture and market products that will improve human\nand animal health worldwide.(cid:160)At Bayer you have the opportunity to be\npart of a culture where we value the passion of our employees to innovate and\ngive them the power to change. IT Specialist (Business Partner) for\nPharmacometrics (CLS) (m/f) YOUR TASKS AND RESPONSIBILITIES(cid:160) \u2022\nEstablish IT capabilities to strengthen Clinical Pharmacometrics,\nbioinformatics and data science \u2022 Strengthen IT capabilities required for an\neffective and efficient access to research, pre-clinical and clinical data as\nwell as electronic health data to support cross-functional R&D; activities\n\u2022 Design and create IT environment to ease modelling and simulating of\nbiological processes \u2022 Support Clinical Pharmacometrics department with\ntailored solutions for mechanistic modelling and its application in the\npharmaceutical R&D; area \u2022 Work in interdisciplinary teams to provide\nconcepts to leverage knowledge out of data \u2022 Execute business capability\nanalysis and user requirements analysis to derive tailored concepts for IT\nanalytics challenges in R&D; \u2022 Consulting regarding the identification,\nevaluation and implementation of innovative IT solutions for Clinical\nPharmacometrics \u2022 Interact with, participate in external scientific\ncooperation(s) in translational R&D; \u2022 Drive holistic data integration for\nBayer Healthcare R&D; \u2022 Contribute to selected critical IT projects to\nsteer them towards the key objectives, e.g. by steering individual work\npackages \u2022 Lead project teams with internal and external staff \u2022 Monitor\nbusiness implications, compliance issues, risks and business satisfaction\nthroughout project lifecycle WHO YOU ARE(cid:160) \u2022 Graduate (m/f) in natural\nsciences, computer sciences, mathematics or equivalent \u2022 Several years of\nexperience in business and IT, preferably in the healthcare environment \u2022\nData- and Knowledge management, especially in data annotation, as well as in\nuse of Passion to innovate Power to change (cid:160) (cid:160) Contact us\nPhone +49 214 30 99779 www.karriere.bayer.de Reference Code 0000134291\nontologies or controlled vocabulary \u2022 Strong analytical thinking and\nconceptual skills to define goal-oriented approaches \u2022 Ability to handle\nmultiple tasks and responsibilities \u2022 Being self-reliant and capable of both,\nindependent work and as member of a team \u2022 Professional experience in insight\ngeneration from data, e.g. text mining and machine learning, cloud computing\nand HPC \u2022 Proven ability and fun to work in a competitive, fast changing and\nmulticultural environment \u2022 Strong focus on contributing to business values \u2022\nAbility to support change in complex organizations YOUR APPLICATION(cid:160)\nFor this Computational Life Science position we offer a competitive salary in\nan international environment as well as excellent opportunities for\nprofessional and personal development. If your background and personal\nexperience fits this profile, please send us your complete application at\nwww.career.bayer.de, submitting a cover letter, your CV and references as well\nas your salary expectation. Passion to innovate Power to change (cid:160)", 
+        "tags": [
+            "DAX"
+        ], 
+        "url": "https://MYBAYERJOB.BAYERBBS.COM/sap/bc/bsp/sap/hrrcf_wd_dovru/application.do?PARAM=cmNmdHlwZT1waW5zdCZwaW5zdD0wMDUwNTY4OTAwQjQxRUQ1ODVCM0YzMkFFQkI4ODI1Mg%3d%3d&sap-client=005&sap-language=EN", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    13.3888599, 
+                    52.5170365
+                ]
+            ]
+        }, 
+        "industry": "Biotech & Pharma", 
+        "title": "IT Specialist (Business Partner) for Pharmacometrics (CLS) (m/f)", 
+        "spider": "bayer", 
+        "subIndustry": "Large Pharma", 
+        "lastSeen": "2015-07-16T03:18:05.389000", 
+        "jobLocation": [
+            "Berlin, Deutschland"
+        ], 
+        "identifier": "cG9zdF9pbnN0X2d1aWQ9MDA1MDU2ODkwMEI0MUVENTg1QjNGMzJBRUJCODgyNTImY2FuZF90eXBlPQ%3d%3d", 
+        "hiringOrganization": [
+            "Bayer"
+        ], 
+        "firstSeen": "2015-06-19T00:22:59+00:00"
+    }, 
+    {
+        "sector": "Consumer Discretionary", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "adidas AG", 
+        "description": "Country: Canada Job Function: Research & DevelopmentState / Province: Quebec\nPosition Type: Full timeCity / Location: Ville St. Laurent Brand: Reebok\nCCMRelocation: No SelectionHockey is not just another sport. Hockey is a\ncommitment. Of time. Of body. Of self. A commitment that is measured in\nbruises and missing teeth. In last second goals and divisional titles.Not\neveryone has it. But for those of us who do, the opportunity for greatness is\nimmense. Commitment is at the very core of how we practice, how we play, and\nwhat we wear. For over 100 years the most committed players have geared up\nwith one brand-CCM.Because no one is as committed to the game as we are. We\nare designers of true hockey equipment. For true hockey players. From the\nworld\u2019s best fitting skate to the world\u2019s lightest stick.The committed players\nof tomorrow will be gearing up with us, but will you be?The main\nresponsibility of the Biomechanics Research Developer - Sticks will be to\nadvise the stick engineering development team on player mechanics in order to\ncreate and drive higher performing products. This will be achieved through\ndetailed analysis of internal data collection (lab and field testing) and\nexternal research partners. Included in this role will be to evaluate all\ntesting protocols from a biomechanical point of view, and conduct regular\nliterature reviews for all product categories. This position will act as a key\nliaison between the development teams and our academic research\npartners.Responsabilities:Stick Performance Analysis\u2022 Manage the Stick\nPerformance Laboratory including all data collectionStick Fitting Analysis\u2022\nDesign a method of fitting players with the correct stick for the shooting\ntechniqueBiomechanical Research\u2022 Conduct and present research on player\nmechanics with an entrepreneurial spirit\u2022 Provide stick developers with\ninsights on player techniques and interactions with products\u2022 Keep up-to-date\nwith current research and maintain an archive of relevant scientific\npublications for referenceOn Ice Testing\u2022 Review and create on ice testing\nprotocols\u2022 Conduct, analyse and report on testingAcademic Liaison\u2022 Monitor and\ndirect projects with Academic partners for all product\ncategoriesQualifications & Skills:\u2022 Master Degree in either Kinesiology or\nBiomechanics, or a relevant field and preferable to have research experience\nin sport; or a similar combination of educational and work related\nexperience.\u2022 Excellent command of both English and French; Oral and written;\u2022\nAbility to effectively communicate and positively influence both internal and\nexternal stakeholders;\u2022 Knowledge of Microsoft Powerpoint, Excel and Word;\u2022\nStrong knowledge of research methods in biomechanics to ensure valid data\ncollection and advanced analytical tools for investigating human movement\nincluding relevant software such a MatLab or equivalent\u2022 Strength in\nstatistical analysis tools such as Stastictica, R, or PSPP\u2022 Ability to work\nefficiently and meet all internal timelines;\u2022 Excellent presentation skills,\nexperience giving presentations\u2022 Familiarity with hockey product and\nmarketingPosting Notes: Ville St. Laurent Quebec Canada Reebok CCM Americas No Selection", 
+        "tags": [
+            "DAX", 
+            "ForbesMVB"
+        ], 
+        "url": "http://jobs.adidas-group.com/job/Ville-St_-Laurent-Biomechanics-Research-Developer-Sticks-D%C3%A9veloppeur-de-la-recherche-biom%C3%A9canique-B%C3%A2tons-QC/259849700/", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -73.6825556459289, 
+                    45.50725095
+                ]
+            ]
+        }, 
+        "industry": "Apparel & Textile Products", 
+        "title": "Biomechanics Research Developer - Sticks - D\u00e9veloppeur de la recherche biom\u00e9canique - B\u00e2tons", 
+        "spider": "adidas", 
+        "subIndustry": "Apparel, Footwear & Acc Design", 
+        "employmentType": [
+            "Developer", 
+            "Research", 
+            "Engineer", 
+            "Statistics", 
+            "Laboratory", 
+            "Technology", 
+            "Engineering", 
+            "Data", 
+            "Science"
+        ], 
+        "lastSeen": "2015-06-16T01:21:58.073000", 
+        "jobLocation": [
+            "Ville St. Laurent, QC, Canada"
+        ], 
+        "identifier": "259849700", 
+        "hiringOrganization": [
+            "adidas Group"
+        ], 
+        "firstSeen": "2015-04-11T00:48:47+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "XING", 
+        "description": "siemens.de Data Architect (m/w) Job ID: 175199 Ort: M\u00fcnchen Organisation:\nInfrastructure & Cities Sector Art der Anstellung: Unbefristet F\u00fcr unseren\nInfrastructure & Cities Sector in M\u00fcnchen suchen wir zum n\u00e4chstm\u00f6glichen\nZeitpunkt einen Data Architect (m/w). Was sind meine Aufgaben? * Entwicklung\nder Daten- und Informationsarchitektur f\u00fcr das datenbasierte Gesch\u00e4ft *\nEntwicklung und Pflege des logischen Datenmodells basierend auf den\nGesch\u00e4ftsanforderungen und den Informationsbed\u00fcrfnissen * Verantwortung und\nManagement der Aktivit\u00e4ten zur Datenintegration (ETL / ELT) zur Umsetzung des\nDatenmodells im Data Warehouse * Entwicklung von Strategien und entsprechenden\nL\u00f6sungen f\u00fcr das Master Data Management im industriellen Kontext * Aufsetzen\nvon Messungen der Datenqualit\u00e4t und entsprechender Verbesserungsaktivit\u00e4ten *\nBereitstellen von technischer Expertise f\u00fcr die Arbeitsgruppen zu Architektur\nund Data Science * Anleitung und Coaching f\u00fcr die Datenmodellierer und\nIntegrationsexperten Was bringe ich mit? * Erfolgreich abgeschlossenes\nHochschulstudium der Informatik oder \u00e4hnlicher Fachrichtungen * Mindestens 5\nJahre Erfahrung im Umfeld von Informationsarchitektur und Datenmodellierung *\nErfahrung in der Entwicklung eines logischen Datenmodells und seiner\nphysischen Implementierung * Erfahrung mit Datenbanken und data warehouses,\nErfahrung mit Teradata und Oracle bevorzugt * Erfahrung mit Datenintegration\nund ETL-Ans\u00e4tzen in einer der f\u00fchrenden Toolumgebungen (z.B. Informatica,\nTalend) * Starke konzeptionelle F\u00e4higkeiten * Sehr gute kommunikative\nF\u00e4higkeiten, insbesondere auch in Bezug auf h\u00f6heres Management *\nSelbstmotivation, Initiative, Durchsetzungsf\u00e4higkeit und starke\nErgebnisorientierung Wenn Sie diese Kenntnisse und Fertigkeiten auf andere\nWeise erworben haben, ist uns Ihre Bewerbung genauso willkommen. Was muss ich\nnoch wissen? Der Siemens-Sektor Infrastructure & Cities mit rund 87.000\nMitarbeitern bietet nachhaltige Technologien f\u00fcr urbane Ballungsr\u00e4ume und\nderen Infrastrukturen. Dazu geh\u00f6ren integrierte Mobilit\u00e4tsl\u00f6sungen, Geb\u00e4ude-\nund Sicherheitstechnik, Stromverteilung, Smart-Grid-Applikationen sowie\nNieder- und Mittelspannungsprodukte. Der Sektor setzt sich aus den Divisionen\nRail Systems, Mobility and Logistics, Low and Medium Voltage, Smart Grid sowie\nder Building Technologies zusammen. Die Siemens-Division Rail Systems ist ein\ninternational f\u00fchrender Anbieter von Schienenfahrzeugen und den dazugeh\u00f6rigen\nService-Leistungen. Das Portfolio umfasst das gesamte Spektrum an Fahrzeugen \u2013\nvon den Eisenbahnen \u00fcber Metros und Lokomotiven bis hin zu Stra\u00dfen- und\nStadtbahnen. Dabei vereint die Division Kompetenzen aus dem Bereich Nah-,\nFern- und Logistikverkehr zu einem umfassenden Know-how f\u00fcr umweltfreundliche,\neffiziente und zuverl\u00e4ssige Schienenfahrzeuge, die weltweit bereits in \u00fcber 40\nL\u00e4ndern im Einsatz sind. Weitere Informationen finden Sie unter\nwww.siemens.com/infrastructure-cities Siemens wurde mit dem Zertifikat audit\nberufundfamilie\u00ae ausgezeichnet. N\u00e4here Informationen finden Sie unter\nfolgendem Link: Beruf und Familie. Siemens unterst\u00fctzt die Initiative \u201ejob \u2013\nJobs ohne Barrieren\u201c des Bundesministeriums f\u00fcr Arbeit und Soziales. Bei\ngleicher Qualifikation werden schwerbehinderte Bewerberinnen und Bewerber und\ndiesen gleichgestellte Menschen bevorzugt ber\u00fccksichtigt. Weitere\nInformationen hierzu erhalten Sie unter: Jobs ohne Barrieren Wir freuen uns\nauf Ihre Online-Bewerbung. Bitte beachten Sie dabei, dass nur vollst\u00e4ndige\nBewerbungsunterlagen inkl. Anschreiben, Lebenslauf und Zeugnissen im weiteren\nAuswahlprozess ber\u00fccksichtigt werden k\u00f6nnen. Kontakt Wir haben Sie neugierig\ngemacht und Sie haben vor Ihrer Bewerbung noch Fragen? Dann kontaktieren Sie\nunser Recruiting Team gerne unter der Rufnummer +49 (9131) 7-35335.\nfacebook.com/careerSiemens", 
+        "title": "", 
+        "url": "https://www.xing.com/jobs/munchen-data-architect-2608395?category=it-und-telekommunikation&ijt=jb_8&paging_context=category_directory", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    11.5754815, 
+                    48.1372719
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "xing", 
+        "employmentType": [
+            "Vollzeit"
+        ], 
+        "lastSeen": "2014-08-20T03:51:28", 
+        "jobLocation": [
+            "M\u00fcnchen"
+        ], 
+        "identifier": "2608395", 
+        "hiringOrganization": [
+            "Siemens AG"
+        ], 
+        "firstSeen": "2014-08-08T22:53:48+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Apple Inc", 
+        "description": "### Job Summary\n\nApple\u2019s Analytic Insight team is responsible for mitigating fraud, waste and\nabuse company-wide. AI Data Science Engineering is building an environment to\nenable cutting-edge data analysis over Petabytes of data. We work side-by-side\nwith data scientists and implement scalable, easy-to-use systems and tools. We\nare seeking a customer-oriented, passionate and driven Data Science Engineer\nto lead our test automation and release management. Must be able to design and\ndrive large projects from inception to production implementation and beyond.\nMust be a great communicator, team player, and a technical powerhouse.\n\n### Key Qualifications\n\n  * Mastery of one of C++, Python, Java, Scala or equivalent language\n  * Experience with Relational databases and NoSQL databases\n  * Experience with Agile software development process, Test-Driven development and Continuous Integration\n  * Experience with software test and test automation\n  * Solid understanding of the full software development lifecycle\n  * Excellent problem solving, critical thinking, and communication skills\n  * Strong ability to learn new technologies in a short time\n  * Experience in building data science or data analysis tools a plus\n  * Machine learning background a plus\n  * Experience with Hadoop, Hive, Spark a plus\n\n### Description\n\nYou will design and build systems and tools to support the fraud prevention\nefforts of Analytic Insight. The job will include: -Design innovative software\nsolutions to open-ended problems -Design test strategy and implement test\nautomation for internal tools and fraud services -Develop processes and tools\nto enable safe and scalable deployment for fraud services The candidate is\nexpected to be self-motivated, pro-active and solution-oriented individual.\n\n### Education\n\nBS degree in computer science or equivalent field plus 7-10 years experience,\nor equivalent.", 
+        "tags": [
+            "ForbesMVB"
+        ], 
+        "url": "https://jobs.apple.com/us/search?#specs&t=1&sb=req_open_dt&so=1&pN=159&openJobId=39380371", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -97.74306, 
+                    30.26715
+                ]
+            ]
+        }, 
+        "industry": "Hardware", 
+        "title": "Data Science Engineer", 
+        "spider": "apple", 
+        "subIndustry": "Communications Equipment", 
+        "employmentType": [
+            "Weekly Hours: 40.00"
+        ], 
+        "lastSeen": "2015-08-05T02:17:50.214000", 
+        "jobLocation": [
+            "Austin, Texas, United States"
+        ], 
+        "identifier": "39380371", 
+        "hiringOrganization": [
+            "Apple", 
+            "Information Systems and Technology"
+        ], 
+        "firstSeen": "2015-05-29T19:54:12+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Cisco Systems Inc", 
+        "description": "**Additional Location(s) or Information: **  \n---  \n**Job Category: **Information Technology  \n**Level of Experience: **Experienced - Non Manager  \n  \n**Requisition #: **R984012  \n**Description:**  \n  \nThe Business Entity  \nThe Team  \nThe Corporate Information Security organization is responsible for protecting\nthe integrity, confidentiality, and availability of information and computing\nassets, while enabling business productivity. Our global organization strives\nto exemplify operational excellence, defend and protect Cisco and our\ncustomers.  \nAbout Cisco  \nThe Internet of Everything is a phenomenon driving new opportunities for Cisco\nand it's transforming our customers' businesses worldwide.  \nCisco\u2019s Information Security Data Governance team is responsible for governing\nthe handling and security of Cisco\u2019s proprietary data, data entrusted to Cisco\n(e.g. customer, partner, etc.), and personal data. Our mission is to drive the\nhow data is governed and drive the development and adoption of data-level\nsecurity solutions. We do these through engaging with the business functions\nto drive ownership and accountability, use data science to derive data\nsecurity intelligence, innovate new approaches and solutions for classic\nproblems like data classification and inventory, and drive data security\narchitectures.  \n  \nInfoSec is taking the field of data science and applying it on towards data\nsecurity. We are building a team to take on this challenge. As part of this\nteam, you will:  \n  \n\u2022 Analyze system/database/application technical specifications to determine\ntypes of data created/generated  \n\u2022 Collaborate with InfoSec engineer team to design data collectors from\nsystem/database/application  \n\u2022 Collaborate with engineers to develop data collection scripts/interfaces  \n\u2022 Conduct exploratory analysis of data to understand user behavior and\nidentify information security patterns, trending, and anomalies  \n\u2022 Develop statistical data models to provide insights and intelligence in the\nsecurity of data and automation of data protection controls  \n\u2022 Prepare summary report in easier to digest and graphical presentation of key\nfindings  \n  \nQualifications:  \n\u2022 BS or above in Statistics, Mathematics, or Engineering  \n\u2022 2+ years of experiences in data mining and analysis  \n\u2022 Basic knowledge on Unix/Linux system administration  \n\u2022 Familiar with one or more of the following languages: Perl, Python, JAVA,\nC++  \n\u2022 Experience with tools and packages: MapR, SAP Hana, Casendra, Tableau, R,\nMATLAB, SPSS  \n\u2022 Excellent analytical skills  \n\u2022 Good verbal and written English capability  \n\u2022 Ability to work with global team, spanning across multiple time-zones  \n\u2022 Must have a can-do attitude  \n  \n**Job Type: **Experienced  \n**Opportunity Category: ***None", 
+        "tags": [
+            "ForbesMVB"
+        ], 
+        "url": "https://jobs.cisco.com/job/Shanghai-InfoSec-Data-Scientist/255285800/", 
+        "hiringOrganization": [
+            "Cisco", 
+            "Information Technology"
+        ], 
+        "industry": "Hardware", 
+        "title": "InfoSec Data Scientist", 
+        "spider": "cisco", 
+        "subIndustry": "Communications Equipment", 
+        "employmentType": [
+            "Experienced"
+        ], 
+        "lastSeen": "2015-04-28T03:09:13.528000", 
+        "jobLocation": [
+            "Shanghai, China"
+        ], 
+        "identifier": "255285800", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    121.4888922, 
+                    31.2253441
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-04-09T03:35:32+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "Req Id: 88130\n\nBell is a truly Canadian company with over 135 years of success. We are\ndefined by the passion of our team members and their belief in our company's\nvast potential.\n\nTo ensure we continue to be recognized as Canada's leading communications\ncompany, we're committed to finding and developing the next generation of\nleaders. This means creating best-in-class career and development\nopportunities for our employees.\n\nIf you're passionate, driven and find yourself seeking interesting work, new\nchallenges and continuous learning opportunities, then we want you to join our\nteam.\n\nOur Network team plans, designs, builds and operates Bell's multi-billion\ndollar networks, including the continued expansion of our fibre optic network,\nHSPA+ and LTE - Canada's largest and fastest wireless network.\n\nThe service we provide is the foundation of Bell's competitive advantage and a\ncritical step towards achieving Bell's goal to be recognized by customers as\nCanada's leading communications company.\n\nBell is a truly Canadian company with over 135 years of success. We are\ndefined by the passion of our team members and their belief in our company's\nvast potential. To ensure we continue to be recognized as Canada's leading\ncommunications company, we're committed to finding and developing the next\ngeneration of leaders. This means creating best-in-class career and\ndevelopment opportunities for our employees.\n\nIf you're passionate, driven and find yourself seeking interesting work, new\nchallenges and continuous learning opportunities, then we want you to join our\nteam. The Network team plans, designs, builds and operates Bell's multi-\nbillion dollar networks, including the continued expansion of our fibre optic\nnetwork, HSPA+ and LTE - Canada's largest and fastest Wireline and wireless\nnetwork.\n\n**Hiring team**\n\nThe Network Big Data Centre of Excellence and Business Intelligence team is\naccountable for leading data technology and data science initiatives across\nBell's Network. The team works to create and implement technology strategies\nand solutions to take advantage of vast amounts of Network data spanning\nwireless, wireline, TV, and Media to improve Bell's network planning and\noperation as well as Bell customers' user experience and to provide advance\ndata related services.\n\nThis is a unique and exciting opportunity to be part of a newly established\nand growing Bell Network Data Centre of Excellence team and help execute key\nBig Data initiatives. You will have opportunities to apply and grow your data\narchitecture skills by working with experts in the field and using state of\nthe art BI and Big data tools, as well as apply and grow your business and\nleadership.\n\n**Key Responsibilities**\n\n  * Lead and participate in the design and implementation of Big data and BI solutions using Hadoop and Apache open source components as well as enterprise grade BI and analytics solutions from leading vendors\n  * Analyse user requirements and create effective and efficient data related solutions\n  * Perform data exploration, mining, and forecasting\n  * Explore and propose solutions to business problems that can be addressed using insights from data\n  * Develops data architectures strategies, principles, standards and frameworks. Analyzes and evaluates alternative tactical and/or strategic data architecture solutions to meet business requirements\n\n**Critical Competencies**\n\n  * University degree in Engineering, Computer Science, or Mathematics. Graduate degree in Analytics or Data Science related discipline is an asset\n  * Advance and hands on data experience spanning database design, data modelling, analytics, reporting, forecasting, data warehousing, Hadoop, ETL, etc. Experience implementing big data solutions using hadoop, SAS, and Microstrategy is an asset\n  * Experience in requirements analysis, design, implementation, and testing of software solutions especially data related using C++, Java, .net, Python and other programming languages\n  * Gifted thinker who is extremely resourceful and can learn new technologies on the fly, driven and proactive\n  * Strong interpersonal, oral and written communication skills, at the same time fun and possess a good sense of humour\n  * Team player who always put the interest of the team above all other priorities\n  * A Bachelor degree in Computer Science, Electrical Engineering, or equivalent\n  * 8+ years technical experience with at least 3 years as data architect holding similar R&Rs as above, preferably in a Telecom environment.\n  * Autonomous and energetic individual\n  * Ability to oversee and work simultaneously on different requirements with a variety of projects and short timelines\n  * Experience in technology research and evaluation as well as vendor selection\n  * Strong aptitude to recognize opportunities for improvement in day-to-day work and take appropriate actions\n  * Excellent analytical, problem solving and decision making skills with a strong attention to detail\n  * Experience in Networking and Telecommunications is a strong asset\n\nBilingualism is an asset (English and French)\n\n**_**_**_Additional Information:_**_**_**\n\n**Position Type:** Management   \n**Job Location:** Canada : Ontario : Mississauga Canada : Ontario : Toronto   \n**Application Deadline:** 08/28/2015 \n\n**_**_**_ Please apply directly online to be considered for this role. Applications through email will not be accepted. _**_**_**\n\nBell is committed to fostering an inclusive, equitable, and accessible\nenvironment where all employees and customers feel valued, respected, and\nsupported. We are dedicated to building a workforce that reflects the\ndiversity of the communities in which we live and serve, and where every team\nmember has the opportunity to reach their full potential.\n\nCreated: Canada, ON, Mississauga", 
+        "title": "Senior Data Architect, Network Big Data Centre of Excellence", 
+        "employmentType": [
+            "Permanent"
+        ], 
+        "hiringOrganization": [
+            "Bell"
+        ], 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveCa", 
+        "url": "http://www.jobserve.com/ca/en/mob/job/DB869FE64877B7D7", 
+        "lastSeen": "2015-08-05T06:45:49.419000", 
+        "jobLocation": [
+            "Mississauga ON"
+        ], 
+        "identifier": "DB869FE64877B7D7", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -79.6441646, 
+                    43.5892854
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-08-02T00:16:06+00:00"
+    }, 
+    {
+        "sector": "Consumer Discretionary", 
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Bayerische Motoren Werke AG", 
+        "description": "  \n  \n------  \n---  Unternehmensbereich **Informationstechnologie** (sonstiges T\u00e4tigkeitsfeld)  \nam Standort **M\u00fcnchen**  \n  \n--- Praktikant Customer Data Analytics (m/w) Aufgaben  Die BMW Group bietet Ihnen ein interessantes Praktikum im Bereich Customer\nData Analytics. Im Rahmen Ihrer T\u00e4tigkeit als Praktikant (m/w) unterst\u00fctzen\nSie unser Team bei der Konzeption von innovativen Customer-Data-Analytics-\nL\u00f6sungen im Customer-Relationship-Management. Dabei haben Sie die M\u00f6glichkeit,\neinen wissenschaftlichen und projektbezogenen Einblick zu erhalten. Zus\u00e4tzlich\nbegleiten Sie die Recherche von Innovationsthemen, wie z.B. Big Data, Customer\nIntelligence, Social Media Analytics und Analytics-Software. Dar\u00fcber hinaus\nhelfen Sie bei dem Verfassen von Artikeln, bei der Programmierung von Data-\nMining-Modellen sowie bei der Bewertung von Analytics-Tools. Die Mitwirkung\nbei der Konzipierung eines zukunftsweisenden Customer Insight-Projektes rundet\nIhr spannendes Aufgabengebiet ab.  Der Einsatz mit einer Dauer von 6 Monaten kann fr\u00fchestens am 01.09.2015\nbeginnen. Dieses Praktikum ist in Vollzeit zu absolvieren. Es besteht die Option eine Studienabschlussarbeit anzuschlie\u00dfen. Qualifikation  \\- Studium der Wirtschaftsinformatik oder ein vergleichbarer Studiengang.  \\- Zweite H\u00e4lfte Diplom-/Bachelorstudiengang oder Masterstudium.  \\- Erste praktische Erfahrung im Bereich Data Science, Marketing Analytics\noder Customer Intelligence w\u00fcnschenswert.  \\- Kenntnisse im Bereich Reporting, Data Warehouse und Business-\nAnalytics/Intelligence.  \\- Kenntnisse in aktuellen Technologien und L\u00f6sungen, wie z.B. in SAP BW,\nOracle BI, QlikView, IBM SPSS, SAS und R sind w\u00fcnschenswert.  \\- Versierter Umgang mit MS Office.  \\- Verhandlungssichere Deutsch- und Englischkenntnisse.  \\- Team- und Kommunikationsf\u00e4higkeit.  \\- Analytisches Denkverm\u00f6gen.  \\- Sicheres Auftreten.  \\- Eigeninitiative.  \\- Kreativit\u00e4t.  \n---------  \nAnsprechpartner  BMW Group Recruiting Team  \n  \n+49 89 382-17001  \n------\n\nBitte bewerben Sie sich mit Ihren aussagekr\u00e4ftigen Bewerbungsunterlagen (inkl.\nAnschreiben, Angaben zu Ihrem beruflichen Werdegang und Qualifikationen sowie\nZeugnissen) ausschlie\u00dflich online - wir freuen uns auf Ihre unter\nAngabe der Stellenreferenz **95519**.  \n  \n---", 
+        "tags": [
+            "DAX", 
+            "ForbesMVB"
+        ], 
+        "url": "https://recruiting.bmwgroup.de/ibs/Servlets/ibs/controller/satellit?event=__activate_and_reset&target=smstelleanzeigen&stellenreferenz=b7c03a939a5936f333743b85f909ea3df6d8f2680c3ddd3f&anzeige=veroeffentlichung", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    11.5754815, 
+                    48.1372719
+                ]
+            ]
+        }, 
+        "industry": "Automotive", 
+        "title": "Praktikant Customer Data Analytics (m/w)", 
+        "spider": "bmw", 
+        "subIndustry": "Automobiles", 
+        "lastSeen": "2015-08-05T01:21:08.184000", 
+        "jobLocation": [
+            "M\u00fcnchen"
+        ], 
+        "identifier": "95519", 
+        "hiringOrganization": [
+            "BMW", 
+            "Informationstechnologie"
+        ], 
+        "firstSeen": "2015-04-02T10:03:50+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "International Business Machines Corp", 
+        "description": "Job description  \nIBM is searching for a Data Scientist as an intern to join our team. The\ncandidate will join the Emerging Sciences team in IBM\u2019s new ExperienceOne\ngroup. The ExperienceOne group uses advanced analytics to help organizations\nattract, delight, and more effectively engage with their customers. We develop\nstate of the art statistical and optimization models that go directly into\nExperienceOne's software products. ExperienceOne provides software solutions\nand expertise to help marketing, merchandising, sales and customer service\nleaders achieve their specific business goals.  \n  \nThe candidate will play a key role in helping the team to define, research,\nand develop new statistical models that will be integrated into our products.\nThese products help many of the largest companies in the world improve their\nengagement with customers by improving their customer's overall experience\nwith their brand. The candidate will have demonstrated experience with both\nthe quantitative research and software engineering aspects of data science.\nAlso, the candidate will be involved with studying how data from social media,\nweb traffic, marketing campaigns, customer service, and customer sales can be\nused to improve customer engagement and lifetime value. This is a great\nopportunity to work on some of the most challenging big data problems around\nand to directly see the impacts of your work in the business results of\nseveral of the largest retail companies in the world.  \n  \nRequired\n\n  * Bachelor's Degree \n  * Basic knowledge in data science \n  * English: Fluent   \n  \nIBM is committed to creating a diverse environment and is proud to be an equal\nopportunity employer. All qualified applicants will receive consideration for\nemployment without regard to race, color, religion, gender, gender identity or\nexpression, sexual orientation, national origin, genetics, disability, age, or\nveteran status. IBM is also committed to compliance with all fair employment\npractices regarding citizenship and immigration status.", 
+        "tags": [
+            "ForbesMVB", 
+            "Consulting"
+        ], 
+        "url": "https://jobs3.netmedia1.com/cp/faces/job_summary?job_id=COM-0754933", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -122.2688522, 
+                    37.5600336
+                ]
+            ]
+        }, 
+        "industry": "Technology Services", 
+        "title": "Data Scientist", 
+        "spider": "ibm", 
+        "subIndustry": "IT Services", 
+        "employmentType": [
+            "Full-time Regular", 
+            "Student/Internship"
+        ], 
+        "lastSeen": "2015-06-10T04:26:44.603000", 
+        "jobLocation": [
+            "Foster City, USA"
+        ], 
+        "identifier": "COM-0754933", 
+        "hiringOrganization": [
+            "IBM", 
+            "IBM Commerce", 
+            "Experience One", 
+            "Research"
+        ], 
+        "firstSeen": "2015-05-19T03:37:36+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "description": "## Ihre Aufgabe\n\nZur Unterst\u00fctzung unseres Data Science suchen wir **ab sofort **einen\n**(Senior) Software Developer f\u00fcr Data Science (m/w) **zur Festanstellung.\n\n**Deine Aufgaben**\n\n  * Du entwickelst und pflegst unsere JVM-basierten Frameworks f\u00fcr das maschinelle Lernen, die Optimierung und automatisierte Entscheidungsfindung.\n  * Du entwickelst Software in enger Zusammenarbeit mit Data Scientists: Du bist deren \u201eEnabler\u201c und \u00fcberf\u00fchrst z. B. moderne Lernalgorithmen in die Produktion.\n  * Zum Aufgabenspektrum z\u00e4hlt ebenso die Auswahl von Technologien, Bibliotheken und Frameworks als auch der Entwurf von Architekturen f\u00fcr Data Processing Systeme.\n  * Du implementierst, testet und evaluierst Lern- und Optimierungsalgorithmen im Kontext von aktuellen Big Data Technologien (Hadoop, Spark, g\u00e4ngige Streaming-Frameworks)\n\nMehr Aufgaben\n\n## Ihr Profil\n\n**Dein Profil**\n\n  * Abgeschlossenes Universit\u00e4tsstudium der Informatik (Master/Diplom)\n  * min. 2-3 Jahre Berufserfahrung als Softwareentwickler\n  * Gute bis sehr gute Mathematikkenntnisse (lineare Algebra, Statistik, Optimierung, Numerik)\n  * Nachgewiesene Kenntnis von Machine Learning Methoden und Algorithmen\n  * Erfahrung im Umgang mit einschl\u00e4gigen Machine Learning Bibliotheken bzw. Frameworks (z. B. Weka, Mahout, Torch, etc.)\n  * Fundierte Kenntnisse in der Verwaltung gro\u00dfer Datenmengen mit relationalen und NoSQL-Datenbanken\n\nMehr Profil Informationen", 
+        "title": "(Senior) Software Developer f\u00fcr Data Science (m/w) - xplosion interactive GmbH", 
+        "url": "https://telekom.jobs/index.php?ac=jobad&id=14157", 
+        "hiringOrganization": [
+            "Telekom", 
+            "Interactive Media CCSP GmbH"
+        ], 
+        "spider": "telekom", 
+        "employmentType": [
+            "Professional", 
+            "Vollzeit - unbefristet", 
+            "3-5 Jahre"
+        ], 
+        "lastSeen": "2015-06-08T03:27:17.152000", 
+        "jobLocation": [
+            "Hamburg, Deutschland"
+        ], 
+        "identifier": "14157", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    10.000654, 
+                    53.5503414
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-04-23T02:27:15+00:00"
+    }, 
+    {
+        "sector": "Consumer Discretionary", 
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Volkswagen AG", 
+        "description": "# Mitarbeit in bestehenden Vorentwicklungsprojekten # Weiterentwicklung von\nSystemen um lernende Komponenten und Verkn\u00fcpfung von Diensten, Nutzer-\nund/oder Fahrzeugdaten # Einbeziehen von konzeptionellen, technischen und\nstrategischen Anforderungen in den Entwicklungsprozess # \u00dcberblick \u00fcber\nbereits bestehende Datens\u00e4tze sowie Aufstellen von Anforderungen zur Erhebung\nneuer Daten # Auswahl geeigneter Ans\u00e4tze zur Datenanalyse, -verarbeitung und\n-visualisierung je nach Fragestellung # Pr\u00e4sentation von Analyse-Ergebnissen\nund Ans\u00e4tzen zur Datenverarbeitung vor Kollegen und Management # Auf Basis der\nDatenanalyse werden technische Anforderungen an die Erhebung und Verarbeitung\nder Daten wie auch an die Fahrzeug-Backend-Schnittstelle formuliert #\nAussteuern von Entwicklungspartnern bei der Umsetzung von Software Modulen #\nEnge Zusammenarbeit sowohl mit der Vorentwicklung im Bereich HMI-Konzepte als\nauch im Bereich Schwarmdatentechnologien sowie Abstimmung mit dem Data\nAnalytics Team # Aufarbeitung von Ergebnissen in eine breit nutzbare Form #\nTop-Managementtaugliche Pr\u00e4sentation von Ergebnissen ; # Mitarbeit in\nbestehenden Vorentwicklungsprojekten # Weiterentwicklung von Systemen um\nlernende Komponenten und Verkn\u00fcpfung von Diensten, Nutzer- und/oder\nFahrzeugdaten # Einbeziehen von konzeptionellen, technischen und strategischen\nAnforderungen in den Entwicklungsprozess # \u00dcberblick \u00fcber bereits bestehende\nDatens\u00e4tze sowie Aufstellen von Anforderungen zur Erhebung neuer Daten #\nAuswahl geeigneter Ans\u00e4tze zur Datenanalyse, -verarbeitung und -visualisierung\nje nach Fragestellung # Pr\u00e4sentation von Analyse-Ergebnissen und Ans\u00e4tzen zur\nDatenverarbeitung vor Kollegen und Management # Auf Basis der Datenanalyse\nwerden technische Anforderungen an die Erhebung und Verarbeitung der Daten wie\nauch an die Fahrzeug-Backend-Schnittstelle formuliert # Aussteuern von\nEntwicklungspartnern bei der Umsetzung von Software Modulen # Enge\nZusammenarbeit sowohl mit der Vorentwicklung im Bereich HMI-Konzepte als auch\nim Bereich Schwarmdatentechnologien sowie Abstimmung mit dem Data Analytics\nTeam # Aufarbeitung von Ergebnissen in eine breit nutzbare Form # Top-\nManagementtaugliche Pr\u00e4sentation von Ergebnissen ; # Mehrj\u00e4hrige Erfahrung im\nEinsatz von Datenverarbeitungs- und Visualisierungsmethoden, d.h. Algorithmen,\nBibliotheken, Tools (z.B. Weka, R, Tableau, SAS, SPSS) # Fachkenntnisse im\nBereich Datenbankmanagement-Systeme (z.B. PostgreSQL) # Mehrj\u00e4hrige Erfahrung\nin der Durchf\u00fchrung von Softwareprojekten und in der objektorientierten\nSoftwareentwicklung (z.B. Java, C++) # Fachkenntnisse im Bereich Vernetze\nSysteme, Kommunikationsprotokolle und Webservices (z.B. http, REST, XML,\nMiddleware) # Idealweise berufliche Erfahrung im Umgang mit Fahrzeugdaten und\nin der Entwicklung von Systemen f\u00fcr den Automobilbereich sowie Erfahrung im\nUmgang mit einem nutzerzentrierten Entwicklungsprozess ; # Hochschulstudium in\nInformations- und Kommunikationstechnik, Informatik, Data Science,\nElektrotechnik oder Nachrichtentechnik # Idealerweise Weiterbildung in Form\neiner Promotion # Mehrj\u00e4hrige Berufserfahrung in der Datenanalyse und\n\u2013verarbeitung, z.B. in den Bereichen Machine Learning und Predictive Analysis;", 
+        "tags": [
+            "DAX", 
+            "ForbesMVB"
+        ], 
+        "url": "https://karriere.audi.de/cui/default.htm?configurationId=ZAU_UNREG_SEARCH&publicationId=54F40E7924DB0C70E10080000AFA1432", 
+        "hiringOrganization": [
+            "Forschung / Entwicklung", 
+            "AUDI AG", 
+            "Volkswagen"
+        ], 
+        "industry": "Automotive", 
+        "title": "Funktionsvorentwicklung Smart Car (m/w)", 
+        "spider": "audi", 
+        "subIndustry": "Automobiles", 
+        "employmentType": [
+            "Vollzeit", 
+            "Direkteinstieg - Indirekte MA"
+        ], 
+        "lastSeen": "2015-04-30T00:12:27.618000", 
+        "jobLocation": [
+            "Ingolstadt, Deutschland"
+        ], 
+        "identifier": "54F40E7924DB0C70E10080000AFA1432", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    11.4250395, 
+                    48.7630165
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-03-03T02:13:39+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "sector": "Technology", 
+        "group": "Salesforce.com inc", 
+        "description": "**About the position**  \nSalesforce.com is the enterprise cloud computing leader. Our digital marketing\ntechnologies-including our flagship sales and CRM applications-help companies\nconnect with customers, partners, and employees in entirely new ways. With\nmore than 100,000 customers worldwide, we are proud to contribute to the\nsuccess of companies of all sizes and industries, around the globe. If you're\npassionate about innovation, come help revolutionize how companies collaborate\nand communicate with customers.  \n  \nThe Marketing Cloud product team is looking for an experienced product\nmanagement and technology professional who is passionate and experienced at\npartnering with data science engineering and has a track record for driving\nnew product capabilities from initial concept to successful delivery and\nmarket adoption. The product management role has both inbound and outbound\nresponsibilities. Inbound responsibilities consist of working with the\ntechnology team to deliver a world-class cloud computing application driven by\ncustomers, prospects, advisory teams and internal product experts. Outbound\nresponsibilities include meeting with customers, prospects and industry\nanalysts to discuss product requirements and the product roadmap. This job is\nfor experienced product managers who thrive in a fast paced collaborative\nenvironment and love working with the best technology team in the world.  \n  \n**Key responsibilities**  \n\u2022 Work with product and engineering leadership to define and deliver the next\ngeneration of our data science capabilities. This includes defining market\nneeds, product vision and strategy, roadmap creation and communication,\nrelease planning, requirements gathering, functional specification all the way\nthrough to customer enablement and success.  \n  \n\u2022 Provide leadership within the data science engineering team, and work very\nclosely with development, QA, user experience, documentation and other product\nteams to execute the Marketing Cloud data science product strategy.  \n  \n\u2022 Employ an outside-in approach to data science by owning and driving feature\ndelivery end-to-end: writing user stories, working with user experience to\ncreate prototypes for usability testing, working with development, technical\npublications, and quality assurance teams to deliver a marketable product on\ntime.  \n  \n\u2022 Engage with enterprise customers for requirements gathering, feature\nrequests and roadmap updates.  \n  \n\u2022 Represent salesforce.com as a domain and product expert for data science at\ncustomer interactions, industry and corporate events.  \n  \n**Requirements**  \n\u2022 Academic expertise and/or equivalent experience in statistics, data science\nand big data technology.  \n  \n\u2022 3+ years of experience in Product Management or Systems/Business Analysis.  \n  \n\u2022 Analytics / BI / Visualization product management experience a very strong\nplus.  \n  \n\u2022 Excellent organizational skills, analytic capabilities, and attention to\ndetail.  \n  \n\u2022 Proven ability to influence cross-functional teams without formal authority.  \n  \n\u2022 Strong communication skills.  \n  \n\u2022 Cloud computing experience.  \n  \n\u2022 Demonstrated experience in the agile software development process.  \n  \n\u2022 Demonstrated experience in gathering and transforming customer needs into an\nactionable product vision and requirements definition.  \n  \n\u2022 Strong troubleshooting and analytical thinking skills.  \n  \n\u2022 Bachelors' degree, with technical disciplines preferred  \n  \nLI-Y", 
+        "title": "Senior Product Manager, Data Science", 
+        "url": "http://salesforce.careermount.com/career/40349/Senior-Product-Manager-Us-Indiana-Indianapolis", 
+        "hiringOrganization": [
+            "Salesforce", 
+            "Technology - Technology Program Management"
+        ], 
+        "industry": "Software", 
+        "spider": "salesforce", 
+        "subIndustry": "Application Software", 
+        "lastSeen": "2015-08-03T05:07:59.785000", 
+        "jobLocation": [
+            "US - California - San Francisco (HQ)"
+        ], 
+        "identifier": "40349", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -122.41942, 
+                    37.77493
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-07-03T03:23:06+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Cap Gemini SA", 
+        "description": "\n\n### Location\n\nLondon  \n\n### About Capgemini Consulting\n\nCapgemini Consulting is the management consulting discipline of the Capgemini\nGroup, one of the world\u2019s largest providers of Consulting, Technology and\nOutsourcing services. We offer transformational excellence through\nunderstanding specific customer needs in all business sectors.\n\nOur Business Analytics Team is Capgemini Consulting\u2019s business analytics and\nmodelling capability. The team delivers analytical solutions and advisory\nservices to a wide range of clients across a number of industry sectors. Our\nClients look to us to work with them collaboratively and provide the expertise\nand structured thinking that will help them develop innovative solutions to\ncomplex business problems. The team is currently expanding and we are looking\nfor graduates consultants to join the team.  \n  \n\n### Main Purpose of Role\n\nYou will be part of a leading Business Analytics practice in the UK within\nCapgemini Consulting. You will undertake a wide variety of challenging project\nwork and help our clients optimise their business processes, improve\noperations and drive performance improvement. You will be encouraged and have\nthe licence to develop new ways of delivering value. When allocating work, we\nalways try to match individual development needs with those of the business.\nWe are looking for talented people with relevant qualifications to help us\ngrow. The type of work that you might get involved in will vary from:\n\n\u2022 Using modelling and analytically based techniques to solve business problems\nas part of a major business transformation, or specialised pieces of work such\nas economic modelling, business case development, risk modelling,\noptimisation, simulation, systems dynamics and forecasting.  \n\u2022 Developing and using modelling tools to support strategic decision making.  \n\u2022 Delivering analytical advisory services to clients.  \n\u2022 Developing both thought leadership points of view and new service offerings\nto differentiate us in the marketplace.\n\nSkills Required  \nTo succeed you will need to possess and demonstrate a number of competencies:\n\n\u2022 A track record of academic achievement (ABB at A-level or equivalent) and a\n2.1 degree in a numerate subject e.g. Maths, Stats, Industrial Engineering,\nEconomics  \n\u2022 MSc. post-graduate qualification in an analytical subject such as\nOperational Research, Data Science, Management Science, Statistics or Decision\nScience. Essential or 1-2 years work experience in Analytics or Data Science.  \n\u2022 You will be familiar with Customer Insight, Business Insight, Pricing\nStrategy, Yield Management / Revenue Management, Data Analytics, Business\nModelling, Business Intelligence, Data Mining, Data Modelling, Operational\nResearch, Forecasting or Decision Science.  \n\u2022 Experience of tools such as Splus/SAS/SPSS/R/Excel.  \n\u2022 A proven ability to rigorously analyse complex issues and develop insights\nand solutions.  \n\u2022 An ability to provide creative thinking and innovative methods.  \n\u2022 Good presentation and influencing skills.  \n\u2022 An ability to work in mixed teams of colleagues and clients.  \n\u2022 Outstanding communication and interpersonal skills with high levels of\nenthusiasm and a good team player.  \n\u2022 Drive & commitment to own and deliver outstanding work.", 
+        "tags": [
+            "Consulting"
+        ], 
+        "url": "https://www.uk.capgemini.com/careers/jobs/management-consulting-graduate-programme-2015", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -0.1276474, 
+                    51.5073219
+                ]
+            ]
+        }, 
+        "industry": "Technology Services", 
+        "title": "Management Consulting Graduate Programme 2015", 
+        "spider": "capgemini", 
+        "subIndustry": "IT Services", 
+        "employmentType": [
+            "Permanent", 
+            "Entry level / Graduate"
+        ], 
+        "lastSeen": "2015-07-22T03:07:33.884000", 
+        "jobLocation": [
+            "London"
+        ], 
+        "identifier": "GAP00010_uk", 
+        "hiringOrganization": [
+            "Capgemini", 
+            "Capgemini Consulting"
+        ], 
+        "firstSeen": "2015-06-08T20:33:24+00:00"
+    }, 
+    {
+        "sector": "Communications", 
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Deutsche Telekom AG", 
+        "description": "### Stellenbeschreibung\n\nStellenbeschreibung\n\nxplosion interactive ist ein junges Unternehmen der Digital Advertising Szene\nin Hamburg und Spezialist f\u00fcr dynamisches Retargeting und Data-Driven-\nProducts. Unser Team aus Digital Natives, Marketingexperten sowie Daten- und\nTechnologie-Spezialisten hilft Online- und E-Commerce-Kunden, Digitalkampagnen\nmarkengerecht und performance-orientiert zu planen und umzusetzen. xplosion\ninteractive geh\u00f6rt zu InteractiveMedia CCSP GmbH und gliedert sich so in die\nKonzernstruktur der Deutsche Telekom AG ein.\n\nIn unserem Hamburger B\u00fcro bieten wir Dir neben einem spannenden Aufgabengebiet\nmit Eigenverantwortung und Entwicklungsm\u00f6glichkeiten viel Raum f\u00fcr eigene\nIdeen. Auf Dich wartet ein moderner und technisch hervorragend ausgestatteter\nArbeitsplatz in toller Arbeitsatmosph\u00e4re mit einem jungen und erfolgreichen\nTeam.\n\nWeitere Informationen findest Du unter www.xplosion.de.\n\nZur Unterst\u00fctzung unseres Data Science suchen wir **ab sofort **einen\n\n\n\n**(Senior) Software Developer f\u00fcr Data Science (m/w)**\n\nzur Festanstellung\n\n**Deine Aufgaben**\n\n  * Du entwickelst und pflegst unsere JVM-basierten Frameworks f\u00fcr das maschinelle Lernen, die Optimierung und automatisierte Entscheidungsfindung.\n  * Du entwickelst Software in enger Zusammenarbeit mit Data Scientists: Du bist deren \u201eEnabler\u201c und \u00fcberf\u00fchrst z. B. moderne Lernalgorithmen in die Produktion.\n  * Zum Aufgabenspektrum z\u00e4hlt ebenso die Auswahl von Technologien, Bibliotheken und Frameworks als auch der Entwurf von Architekturen f\u00fcr Data Processing Systeme.\n  * Du implementierst, testet und evaluierst Lern- und Optimierungsalgorithmen im Kontext von aktuellen Big Data Technologien (Hadoop, Spark, g\u00e4ngige Streaming-Frameworks)\n\n\n\n**Dein Profil**\n\n  * Abgeschlossenes Universit\u00e4tsstudium der Informatik (Master/Diplom)\n  * min. 2-3 Jahre Berufserfahrung als Softwareentwickler\n  * Gute bis sehr gute Mathematikkenntnisse (lineare Algebra, Statistik, Optimierung, Numerik)\n  * Nachgewiesene Kenntnis von Machine Learning Methoden und Algorithmen\n  * Erfahrung im Umgang mit einschl\u00e4gigen Machine Learning Bibliotheken bzw. Frameworks (z. B. Weka, Mahout, Torch, etc.) \n  * Fundierte Kenntnisse in der Verwaltung gro\u00dfer Datenmengen mit relationalen und NoSQL-Datenbanken\n\n\n\n**Was wir bieten**\n\n  * Cutting-Edge Technologien und das Arbeiten auf Daten, die in Bezug auf Qualit\u00e4t und Volumen deutschlandweit einzigartig sind.\n  * Die M\u00f6glichkeit, in einem hochmotivierten und \u2013qualifiziertem Team von Big Data- und Machine Learning Enthusiasten Forschung und Entwicklung zu betreiben.\n  * \u00dcberdurchschnittliche Verg\u00fctung: Spitzenleistung wissen wir zu sch\u00e4tzen und sie wird belohnt.\n  * Flache Hierarchien, eine Kultur der Wertsch\u00e4tzung, hervorragendes Arbeitsklima und exzellente Karrierem\u00f6glichkeiten.\n  * Ausf\u00fchrliche Einarbeitung in das Online-Business durch kompetente Kollegen.\n  * Ein B\u00fcro in zentrumsnaher Lage \u00fcber den D\u00e4chern von Hamburg mit Blick auf die Au\u00dfenalster, hervorragender Anbindung an die \u00f6ffentlichen Verkehrsmittel und Zuschuss zur ProfiCard der HVV.\n\n** **\n\n**Interessiert?**\n\nDeine Bewerbungsunterlagen sendest Du \u00fcber unsere Jobb\u00f6rse. Bei Fragen steht\nDir Adeline Paasch unter 040/2850 7000 gerne zur Verf\u00fcgung.", 
+        "tags": [
+            "DAX", 
+            "Consulting"
+        ], 
+        "url": "https://jobwelt.telekom.com/jpapps/n/int_open/jv/,00043481", 
+        "hiringOrganization": [
+            "Telekom", 
+            "Strategie", 
+            "Human Resources", 
+            "Prozesse", 
+            "Revision"
+        ], 
+        "industry": "Telecom", 
+        "title": "(Senior) Software Developer f\u00fcr Data Science (m/w) - xplosion interactive GmbH", 
+        "spider": "telekomIntern", 
+        "subIndustry": "Telecom Carriers", 
+        "employmentType": [
+            "Vollzeitbesch\u00e4ftigung"
+        ], 
+        "lastSeen": "2015-03-15T19:06:43", 
+        "jobLocation": [
+            "xplosion interactive GmbH, Hamburg"
+        ], 
+        "identifier": "00043481", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    10.01534, 
+                    53.57532
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-01-19T19:09:29+00:00"
+    }, 
+    {
+        "sector": "Health Care", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Merck KGaA", 
+        "description": "_Description:_\n\nEMD Millipore and EMD Serono, are affiliates** of Merck KGaA, a **leading\ncompany for innovative and top-quality high-tech products in the\npharmaceutical and chemical sectors. Around 39,000 employees work in 66\ncountries to improve the quality of life for patients, to further the success\nof our customers and to help meet global challenges. We generated total\nrevenues of \u20ac 11.1 billion in 2013 with our three businesses: Healthcare, Life\nScience and Performance Materials**. Currently we have an opening for Big Data\nSoftware Engineer.**\n\n**Responsibilities:**\n\nResponsible for architecting and developing advanced analytical solutions\nwithin a Hadoop based architecture to drive a pervasive analytical culture and\nenable breakthrough business objectives.\n\nThis technical role requires deep knowledge and experience with Hadoop and\nother big data platforms. The candidate will work closely with architects,\nbusiness analyst to design and implement various parts of the new data\nanalytics platforms. Together with key business subject matter experts they\u2019ll\nwork on complex analytics models.  \n\n  * **Required Experience and Skills:**\n    * analytical and problem-solving skills, and ability to work with incomplete or imperfect data\n    * Ability to identify and visualize relationships within large, not obviously related data sets.\n    * Knowledge of the data management eco-system including: Concepts of data warehousing, ETL, data integration, etc.\n    * Minimum 3 years hands-on development in Java including familiarity with scripting tools such as bash shell scripts, Python and/or Perl\n    * 2+ years working with and developing within a Hadoop platform \n      * Implementing MapReduce Jobs\n      * Designing data queries against data in the HDFS environment using tools such as Apache Hive\n    * Ability to understand big data use-cases, and recommend standard design patterns commonly used in Hadoop-based deployments.\n    * Excellent Communication, collaboration and team skills\n    *   * **Desired Experience and Skills:**\n    * Knowledge of other big data platforms\n    * Experience with various visualization tools (Tableau, R, etc.)\n    * Experience with various database systems (i.e. Oracle)\n    * Experience with development tools and tools platforms (i.e. Flume, Sqoop, PIG, HIVE, etc.)\n    * Experience writing to network-based APIs, preferably REST/JSON or XML/SOAP\n    * Experience developing application using REST API architecture a plus\n    * Experience developing using an AGILE Methodology (i.e. SCRUM, LEAN, etc.)\n\n**Education Minimum Requirement:**  \n\u2022 MSc Degree or BSc Degree or equivalent with relevant experience in Computer\nScience, Computer Science Engineering, Math, Data Science or equivalent\nexperience.", 
+        "tags": [
+            "DAX"
+        ], 
+        "employmentType": [
+            "Vollzeit"
+        ], 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -71.268947, 
+                    42.5584264
+                ]
+            ]
+        }, 
+        "industry": "Biotech & Pharma", 
+        "title": "Big Data Software Engineer", 
+        "spider": "merck", 
+        "subIndustry": "Biotech", 
+        "url": "https://career012.successfactors.eu/career?career%5fns=job%5flisting&company=merckgroup&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=de%5fDE&career_job_req_id=75662", 
+        "lastSeen": "2015-05-18T01:38:07.963000", 
+        "jobLocation": [
+            "Billerica, USA"
+        ], 
+        "identifier": "75662", 
+        "hiringOrganization": [
+            "Merck Group", 
+            "Informationstechnologie"
+        ], 
+        "firstSeen": "2015-04-02T10:42:41+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "My client is an ambitious consultancy specialised in the area of big data\nscience and engineering.  \nTheir services situate mainly in the transition from previous generation\ninformation architectures to the new generation of technologies and analytics.  \n  \nThe team has a scientific background, industry experts and thought-leaders who\nhave worked extensively with Hadoop, NoSQL databases like Cassandra, CouchDB,\nsearch technologies like Elasticsearch, Solr and related technologies like R,\nPython etc  \n  \nRole  \nDeep learning from data in order to guide the business forward.  \nUnderstand business drivers functional and non functional  \nArchitecting solutions to collect, stream, store and analyse a variety of\nstructured and unstructured data.  \nDesigning scalable systems.  \nDesign trend detection/pattern recognition algorithms for predictive\nanalytics.  \n  \nSkills and Experience  \nStrong academic background.  \nExperience working with large data sets using technologies such as MapReduce,\nHadoop, HBase, Hive and NoSQL.  \nExperience with visualization technologies.  \nExperience with predictive analytics using R or SaS in PoC/prototyping is a\nplus.  \nExperience with Real Time analysis of sensor/data from Internet of Things is a\nplus.  \nPreferred candidates have 5 - 7 years of software engineering experience with\nrelevant technologies.  \nPreferred candidates would have experience in finance/banking/insurance  \n  \nTools  \nPython/Bash/Ruby  \nJava/Scala/C++  \nHadoop/Cassandra/MongoDB  \nSQL/REST API/JSON  \nLinux and Bash Scripting  \nLucene/ElasticSearch/SOLR  \nAgile  \nHTML5/JavaScript/AngularJS  \n  \nTo be successful, you will need to have a background in a quantitative or\ntechnical field, have experience working with large data sets, and will have\nsome experience in data-driven decision making. In addition, you must be a\nself-starter, and have demonstrated success in using analytics to drive the\nunderstanding, growth, and success of a product.  \n  \nWe look forward to the influx Data Scientists/Data Engineers/Big Data gurus\nwith an infatuation for making a name within the Big Data domain.", 
+        "title": "BigData Scientist/Engineer - (multiple roles)", 
+        "employmentType": [
+            "Permanent", 
+            "EUR65k - EUR85k per annum + car/Pension/negociable"
+        ], 
+        "hiringOrganization": [
+            "Astbury Marsden"
+        ], 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveNl", 
+        "url": "http://www.jobserve.com/nl/en/mob/job/3E793FC8F6FE1EAB", 
+        "lastSeen": "2015-07-01T07:03:41.962000", 
+        "jobLocation": [
+            "Amsterdam, Netherlands"
+        ], 
+        "identifier": "3E793FC8F6FE1EAB", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    4.8979956033677, 
+                    52.374436
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-06-28T01:10:30+00:00"
+    }, 
+    {
+        "sector": "Communications", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Google Inc", 
+        "description": "At Google, data drives all of our decision-making, and our HR organization is\nno exception. The People Analytics team acts as an internal innovation lab,\nusing analytical approaches to make sure Google continues to be a great place\nto work. The team provides critical support to the business around issues of\norganizational health and is responsible for not just taking the pulse of our\nGooglers, but harnessing Googler feedback to drive change for the better. As\nan analyst you'll be detail-oriented and conscientious, analytical and\ncurious. You're a strong problem-solver, who uses both quantitative and\nqualitative methods to get things done. And on top of it all, you're someone\nwho wonders \"What if?\"\u009d and then seeks out the solution.\n\nAs a member of the newly created People Data Science & Technology team,\nyou\u2019ll help a team comprised primarily of social scientists learn to take\nadvantage of their increasing access to big behavioral datasets. You\u2019ll bridge\nthe gaps between our team of researchers and Google\u2019s software engineers and\nstatisticians. You\u2019ll be extremely proficient technically with a strong\ninterest in applying your skills to improving understanding of human behavior.\nYou\u2019ll be excited to learn from and contribute to the great Google statistics\ncommunity and to share and apply your learning on project with People\nAnalytics teammates.\n\nResponsibilities\n\n  * Access and leverage behavioral, network and unstructured data sets by writing and testing data mining, text and sentiment analysis, clustering, and other types of machine learning algorithms.\n  * Collaborate with a team of analysts and social scientists to conduct in-depth analysis, design and analyze experiments.\n  * Keep People Analytics connected to Google\u2019s statistics community, act as our statistical subject matter expert and push the team forward on advanced analytical methods.\n  * Influence senior social scientists, human resources and business leaders through strong communication skills and deep subject matter expertise.\n\nMinimum qualifications\n\n  * MA degree in Computational Science, Computational Data Science, Computational Social Science, Applied Statistics, Management Science and Engineering, Operations Research, Biostatistics or Data Sciences or equivalent practical experience.\n  * 3 years of experience with machine learning, data mining or statistical work.\n  * Experience with statistical analysis and classification methods like K-Means, KNN, SVMs, Deep Learning/Neural Networks, Decision Trees, Random Forests, Logistic Regression, Multinomial Logit, etc.\n\nPreferred qualifications\n\n  * PhD degree in a quantitative field (Math, Statistics, Computer Science, Engineering, Data Science, Operations Research, Biostatistics).\n  * 5 years of applied experience with machine learning, data mining or statistical work.\n  * Experience with unstructured data (e.g., text). Ability to use data to tell a story based on the insights from complex analysis.\n  * Experience with web-based data visualization skills (e.g., D3.js). Front-end web development experience.\n  * Experience drawing insights from large longitudinal behavioral datasets such as datasets that constantly track movement, from a perspective of enabling individuals vs. enabling companies.\n  * Strong learning and teaching orientation: constantly seeking to improve your own skills and willing to invest in building the skills of those around you. Interest in social sciences in application of social sciences to People Analytics.", 
+        "tags": [
+            "ForbesMVB"
+        ], 
+        "url": "https://www.google.com/about/careers/search#!t=jo&jid=111145001&", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -121.705327, 
+                    37.189396
+                ]
+            ]
+        }, 
+        "industry": "Media", 
+        "title": "Data Science Manager, People Analytics Team", 
+        "spider": "google", 
+        "subIndustry": "Internet Media", 
+        "employmentType": [
+            "Full-time"
+        ], 
+        "lastSeen": "2015-08-05T03:20:27.754000", 
+        "jobLocation": [
+            "Mountain View, CA, USA"
+        ], 
+        "identifier": "111145001", 
+        "hiringOrganization": [
+            "Google", 
+            "People Operations"
+        ], 
+        "firstSeen": "2015-06-02T08:57:37+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "Data Architect  \n  \nArchimiddle delivers consultancy in IT architecture and Middleware to support\ncustomers with architectural decisions and implementations. The IT landscape\nevolves rapidly from data and application silos to agile service oriented\nsolutions, increasing the importance of data as a service.  \nThis opens new opportunities for business, such as Big Data solutions, but at\nthe same time, these solutions must often be fit into existing data\ninfrastructure and architecture, which can be quite a challenge.  \n  \nJob description  \nAs a data architect, you will be working with multiple data stores and data\ntypes in diverse development environments.  \nYou are able to take responsibility over architectural decisions with respect\nto data, and you can help customers implementing Big Data solutions.  \n  \nYou have a broad knowledge of data techniques and project methodologies and\nyou can be an active and reliable part of a development team.  \n  \nYou will take responsibility for following tasks:  \nTake architectural decisions, both conceptual and technical  \nTranslate business requirements into architectural requirements  \nGuide the implementation of Big Data projects  \nBe part of a team of Big Data developers  \nIncrease your data architecture and data science knowledge  \nconstantly  \n  \nYour profile  \nWe are not just looking for people matching all skills, but also for\nexperienced people with a high potential in these fields.  \n  \nConceptual skills  \nBig Data Architecture  \nData Science  \nData-as-a-Service solutions  \nNoSQL concepts  \n  \nTechnical skills  \nRelational databases, SQL  \nHadoop, HDFS, and related technologies  \nGraph databases  \nMapReduce  \nBig Data cloud technologies  \nRESTful web services  \n  \nSoft skills  \nCommunication skills  \nCreative thinking  \nDocumentation skills  \nPresentation skills  \n  \nWhat we offer  \nWe offer you a competitive salary with extras such as a company car incl.\nfuel, group and health insurance, laptop, and above all, an inspiring work\nenvironment with lots of room for personal improvement and knowledge\nexpansion.  \n  \nAbout Archimiddle  \nArchimiddle is a consultancy firm within the Contribute Group-with over 120\nconsultants-helping customers take the right IT decisions and deliver end-to-\nend tailored IT solutions, using modern and future-ready technologies and\nmethodologies.  \nArchimiddle actively supports creativity and forward thinking and is active in\nintegration, data, and cloud architecture.", 
+        "title": "Data Architect", 
+        "employmentType": [
+            "Permanent"
+        ], 
+        "hiringOrganization": [
+            "Contribute Group"
+        ], 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveBe", 
+        "url": "http://www.jobserve.com/be/en/mob/job/B408F45A153CE880", 
+        "lastSeen": "2015-06-21T00:11:27.458000", 
+        "jobLocation": [
+            "Kontich, Antwerpen"
+        ], 
+        "identifier": "B408F45A153CE880", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    4.4456359, 
+                    51.134377
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-06-16T19:43:29+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Atos SE", 
+        "description": "__\n\n### Company Information\n\nAtos SE (Societas Europaea) is a leader in digital services with 2014 pro\nforma annual revenue of circa \u20ac 11 billion and 93,000 employees in 72\ncountries. Serving a global client base, the Group provides Consulting &\nSystems Integration services, Managed Services & BPO, Cloud operations,\nBig Data & Cyber-security solutions, as well as transactional services\nthrough Worldline, the European leader in the payments and transactional\nservices industry. With its deep technology expertise and industry knowledge,\nthe Group works with clients across different business sectors: Defense,\nFinancial Services, Health, Manufacturing, Media, Utilities, Public sector,\nRetail, Telecommunications, and Transportation.  \n  \nAtos is focused on business technology that powers progress and helps\norganizations to create their firm of the future. The Group is the Worldwide\nInformation Technology Partner for the Olympic & Paralympic Games and is\nlisted on the Euronext Paris market. Atos operates under the brands Atos, Atos\nConsulting, Atos Worldgrid, Bull, Canopy, and Worldline.\n\nOur ability to deliver Operational Excellence means that we are always ready\nand able to help our clients address whatever challenges they face, wherever\nthey are in the world. We also place great emphasis on understanding and\nmeeting the needs and priorities of our clients, including their\nsustainability objectives.  \n  \nAtos values the individual and strives to deliver an appropriate work-life\nbalance because a motivated and happy person can add untold value to our\nclients and colleagues around the world.\n\nFor more information, please see the Atos corporate web site:.\n\n### Job Description\n\nThe Sr Data Science Consultant is responsible for helping Atos clients\nunderstand and extract value from their data. Working both independently and\nas part of a team, the Sr Data Science Consultant will be involved in all\nphases of (Big Data) analytics projects including: question formulation,\ndesign, research and development, implementation, and testing. The ideal\ncandidate is able to explore and understand data and build advanced analytical\nmodels independently, then present and discuss the resulting models to any\nlevel of audience.\n\nThe data scientist role is a self-directive role, requiring very high level of\ninitiative and investigative/detective capabilities in achieving\ngoals/objectives for business clients.  \nThe Data Scientist uses scientific /analytical approaches to explore and\nvisualize available data, identifies gaps and needs for additional data,\nbuilds/validates required analytic models (such as classification, clustering\nor association, to name a few) for potential deployment/ implementation by\nbusiness clients in operations.  \nThis role will require working on multiple projects simultaneously in\ncollaboration with various cross-functional teams. The Data Scientist will be\nresponsible for periodically providing data-driven insights and conclusions\nthrough presentations and prototype demonstrations.\n\n**Responsibilities**:  \n\u2022 Work with clients to gather and refine specific business problems and\nscenarios and document analytical solution requirements  \n\u2022 Create and maintain documentation of technical requirements including use\ncases  \n\u2022 Define the data requirements for specific business problems and Identify\nsources of data in consultation with business clients (e.g., in-house data\nstore/warehouse, external data mart, etc.)  \n\u2022 Identify and resolve data/information gaps for meeting business\nobjectives/goals including data quality issues and sources (data feeds, the\nmaster data, etc.), and identify training and validation datasets as\nappropriate  \n\u2022 Build multiple analytical models to solve specific business problems using\ncommercial or open source toolsets  \n\u2022 Work with stakeholders to establish minimum levels of performance criteria\nfor model selection  \n\u2022 Work with Business clients to Validate/Test subset of model(s) and obtain\napproval for models that achieve specified business goals  \n\u2022 Report Analytical results in a variety of creative visual formats that\nappropriately provides insights to business clients  \n\u2022 Define technical requests for Technical Specialists to perform, such as\ndetailed data linking or parallel processing requests.  \n\n  \n\n### Job Requirements\n\n**Required**:   \n\\- Bachelor\u2019s or Master\u2019s degree in Industrial Engineering, Applied\nMathematics, Statistics, Computer Science or related fields (equivalent work\nexperience considered).  \n\\- 5 years + hands-on experience in one or more Statistical Methods, such as\nmachine learning, information retrieval, data mining, Text Mining, Natural\nLanguage Processing, Web Analytics or similar.  \n\\- Experience with Java  \n\\- Experience with SQL and relational database programming and/or distributed\ncomputing platforms and query interfaces such as MapReduce, Pig, Hive.  \n\\- Excellent verbal and written communication skills; ability to express\ncomplex ideas to any level of audience.  \n\\- Strong team player capable of working in a demanding environment.  \n\\- Eager to learn and apply new technologies.  \n\u2022 Experience working with very large data sets, grouping together data and\nvisualizing results  \n\u2022 Familiarity with extracting data from Hadoop using frameworks like Hive and\nfrom MPP platforms, experience with some Java / python / simple map-reduce\njobs development  \n\u2022 Experience with commercial modelling and simulation tools such as SAS\nEnterprise Miner, SAS Visual Analytics, IBM SPSS Modeller, and open source\ntools such as R, Weka.  \n\u2022 Analytical Reasoning Skills: Adept at mathematical reasoning, Applies\nscientific experimentation to business problems  \n\u2022 Possess skills such as Analytical Model Design & Implementation,\nVisualization/Report Design & Implementation  \n\u2022 Business skills: Some level of industry sector understanding, product\nunderstanding and process understanding  \n\u2022 Strategic Thinking and Creativity Skills: See the Big Picture, have high\nlevel of curiosity and willingness to experiment  \n\u2022 Communication Skills: Excellent Written and Verbal Skills, Ability to\ncommunicate effectively with senior level executives clients\n\n**Desired**:   \n\\- Ability to write production level code.  \n\\- Exposure to Big Data technologies (Hadoop, HDFS, Pig, Hive, etc.).  \n\\- Familiarity with NoSQL databases (e.g., HBase, Cassandra, Mongo DB).  \n\\- Experience with Tableau or other data visualization tools.  \n\\- Experience working with customers (consulting experience a plus).  \n\\- Diverse data set experience.  \n\\- Experience with PMML.  \n\\- Experience with Python or Scala", 
+        "tags": [
+            "Consulting"
+        ], 
+        "url": "https://careers.atos.net/fe/tpl_Atos01.asp?s=4A515F4E5A565B1A&jobid=135245,3522954065&key=24750428&c=726198233383&pagestamp=seelcfkaucwfgtcdkb", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    -95.3600906790202, 
+                    29.72134125
+                ]
+            ]
+        }, 
+        "industry": "Technology Services", 
+        "title": "Senior Data Science Consultant", 
+        "spider": "atos", 
+        "subIndustry": "IT Services", 
+        "employmentType": [
+            "Vollzeit", 
+            "Berufserfahrene/r"
+        ], 
+        "lastSeen": "2015-08-05T00:53:03.526000", 
+        "jobLocation": [
+            "US - TEXAS - HOUSTON"
+        ], 
+        "identifier": "135245,3522954065", 
+        "hiringOrganization": [
+            "Atos", 
+            "IT Support"
+        ], 
+        "firstSeen": "2015-05-05T03:39:47+00:00"
+    }, 
+    {
+        "sector": "Materials", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "BASF SE", 
+        "description": "Working area: Logistics & Supply Chain Management Location: BASF Business\nServices Holding GmbH, Ludwigshafen Working hours: Full-time Contract type:\nPermanent Reference code: EN54782928_ONLE_1 Please apply online at\nwww.basf.com/career or in writing to BASF Services Europe GmbH Recruiting\nServices Europe PO Box 11 02 48 10832 Berlin, Germany For more information\nplease contact: Tel.: 00800 33 0000 33 E-Mail: jobs@basf.com Business and\nSupply Chain Analytics Manager (m/f) We are the world's leading chemical\ncompany because we offer intelligent solutions for our customers and for a\nsustainable future. We link and develop people with diverse talents all over\nthe world. For you, this means a variety of ways to advance. Not only your\nperformance but also your personality matter to us. At BASF, careers develop\nfrom opportunities. The innovative service portfolio of BASF Business Services\nHolding GmbH ranges from consultancy, development and operations to shaping\nand optimising business processes. With many years of experience, we support\nthe BASF Group's global business process to become more effective and\nefficient. What you can expect For our unit Supply Chain Strategy Development\nwe are looking for a Business and Supply Chain Analytics Manager. In this\nposition you will develop a supply chain analytics team and identify relevant\nSupply Chain analytics problems and scope them through continuous dialogues\nwith business units and customers supported by community work. Furthermore,\nyou will initiate, conduct and lead analytics, big-data projects as well as\nfeasibility studies within the Supply Chain. In this regard, you will\ncooperate closely with Data Scientists and partners, develop and recommend\nactions and prepare the respective roll-outs and roadmaps for a sustainable\nresult utilization. By this, you facilitate matching business requirements\nwith new analytical solutions in the evolving \"big-data\" and analytic\nenvironment. Moreover, you will evaluate innovative developments in data\nscience provided by market players and external research institutions. What we\nexpect You have successfully completed a degree in business studies or\neconomics focussing on Supply Chain Management and have gained several years'\nprofessional experience in this area. You, therefore, have a solid\nunderstanding of Supply Chain Operations and dispose of deep expertise in\nProject Management. You are well versed in the use of IT applications,\nespecially MS PowerPoint and MS Excel, as well as statistics programs and SAP\nReporting. You can prove your communication skills in English and German and\nare used to presenting your results clearly and compe- tently. If you are a\nreal team player, we look forward to receiving your application. We offer\nResponsibility from day one in a challenging work environment and \"on-the-job\"\ntraining as part of a committed team. Competitive compensation including\nattractive benefits as well as excellent career opportunities in an\ninternational company. Expect to be surprised by the exciting range of career\nopportunities at BASF. Do you want to know more? Meet our employees for an\nonline chat on www.basf.com/en/company/career/connected-minds.html", 
+        "tags": [
+            "DAX"
+        ], 
+        "url": "https://jobs.europe.basf.com/sap/bc/bsp/sap/hrrcf_wd_dovru/application.do?PARAM=cmNmdHlwZT1waW5zdCZwaW5zdD00Qzk1Qzg1NEVEQ0Y0M0YwRTEwMDAwMDA4RDA2MENFNA%3d%3d&sap-client=002&sap-language=DE", 
+        "hiringOrganization": [
+            "BASF Business Services Holding GmbH", 
+            "Logistik & Supply Chain Management"
+        ], 
+        "industry": "Chemicals", 
+        "title": "Business and Supply Chain Analytics Manager (m/f)", 
+        "spider": "basf", 
+        "subIndustry": "Basic & Diversified Chemicals", 
+        "employmentType": [
+            "Vollzeit", 
+            "Unbefristet"
+        ], 
+        "lastSeen": "2015-03-05T02:21:51", 
+        "jobLocation": [
+            "Ludwigshafen, Deutschland"
+        ], 
+        "identifier": "4C95C854EDCF43F0E10000008D060CE4", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    8.4391173, 
+                    49.4792355
+                ]
+            ]
+        }, 
+        "firstSeen": "2015-02-06T02:26:09+00:00"
+    }, 
+    {
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "JobServe", 
+        "description": "Description: Software Development Engineer Amazon EC2 Amazon Development\nCentre South Africa is looking for passionate, experienced software developers\nto join us and help to solve a challenging set of problems in space packed\nfull of opportunities. Amazon Web Services (AWS) provides Amazon's developer\ncustomers with access to in-the-cloud infrastructure services based on\nAmazon's own Back End technology platform, which developers can use to enable\nvirtually any type of business. The Cape Town based Development Center plays a\nkey role in building the Amazon Elastic Compute Cloud (Amazon EC2). Amazon\nElastic Compute Cloud (EC2) is the web service that is pioneering cloud\ncomputing by providing resizable compute capacity in the cloud. It gives any\ndeveloper complete control of their computing resources and lets them run on\nAmazon's proven computing environment. We are continuing to build the team in\norder to expand on our feature set and manage our rapidly increasing scale.\nThe Release Reliability team will be responsible for tooling and automation to\nensure deployments by the Cape Town teams are safe and low-effort. This team\nwill own the end-to-end integration testing infrastructure for control plane\nchanges, automated CM risk evaluation, and automation/integration to support\nthe control plane deployment calendar. The ideal candidate will be clearly\npassionate about the large opportunity that Amazon EC2 presents and about web\nservices in general. This person has thrived and succeeded in delivering high\nquality solutions in a hyper-growth environment where priorities shift fast.\nIf you're looking to solve problems ranging from efficient resource allocation\nin the face of imperfect information, building touchless automation to manage\nmillions of machines, or sifting through billion row databases looking for\npatterns then drop us a line. Amazon is an equal opportunity employer. Basic\nQualifications:\n\n  * Bachelor's or honor's degree in Computer Science, Engineering or equivalent\n  * 8+ years of industry experience in a software development environment\n  * Strong customer focus\n  * Some experience with Ruby, Perl, Java or C/C++\n  * Some experience with Linux development\naws-sdesdm-ea Preferred Qualifications:\n\n  * 10+ years of industry experience in a Linux environment.\n  * Masters or PhD in Computer Science or equivalent\n  * Experience in large scale software systems\n  * Data Science skills in machine learning or statistical analysis is a plus\n  * Strong analytical skills with excellent problem solving abilities\n  * Knowledge of system performance methodologies along with hands on empirical monitoring\n  * Strong desire to build, sense of ownership, urgency, and drive\n  * Excellent written communication and verbal agility are strong assets\n  * Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environment\n  * Expertise in delivering high-quality, innovative applications", 
+        "title": "Senior Software Development Engineer - EC2 Release Reliability Team", 
+        "url": "http://www.jobserve.com/za/en/search-jobs-in-Cape-Town,-Western-Cape,-South-Africa/SENIOR-SOFTWARE-DEVELOPMENT-ENGINEER-EC2-RELEASE-RELIABILITY-TEAM-53D88CEE77B4C9EA/", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    18.4172485, 
+                    -33.9289049
+                ]
+            ]
+        }, 
+        "tags": [
+            "Job Board"
+        ], 
+        "spider": "jobserveAf", 
+        "employmentType": [
+            "Unspecified"
+        ], 
+        "lastSeen": "2015-03-13T03:37:50", 
+        "jobLocation": [
+            "Cape Town, Western Cape, South Africa"
+        ], 
+        "identifier": "53D88CEE77B4C9EA", 
+        "hiringOrganization": [
+            "Inside Amazon"
+        ], 
+        "firstSeen": "2015-03-13T03:37:50+00:00"
+    }, 
+    {
+        "sector": "Technology", 
+        "lang": {
+            "code": "en", 
+            "conf": 1.0
+        }, 
+        "group": "Infineon Technologies AG", 
+        "description": "**Innovative semiconductor solutions for energy efficiency, mobility and security**\n\nDo you want to rise to the challenges of modern society and shape the\ntechnology of tomorrow? Then start with Infineon today! With 26,000 employees\naround the world, we're improving energy efficiency, enabling new mobility\nconcepts and ensuring security in a digital world - by using innovative\nsemiconductor and system solutions to steer the world towards a better,\nsustainable future.  \nFor that we need:  \nGreat passion. Amazing ideas. First-class skills. You.\n\n**Job Description:**\n\n\u2022 Strong Data Mining skills with ability to analyze data & provide\nrecommendations using Statistical and Analytical Tools i.e. R, SPSS etc.  \n\u2022 Proficiency in Data Science and Big Data Analytics  \n\u2022 Web Analytics such as Google Analytics  \n\u2022 Text Analytics- Develop/prototype/patent algorithms in areas such text\nclassification, clustering, summarization, visualization, information\nextraction, opinion mining, sentiment analysis, and network & link analysis.  \n\u2022 Experience with multi-lingual text mining and information retrieval  \n\u2022 Visualisation Tools \u2013 Open source tools such D3.Js javascript library,\nTableau, Qlikview etc for interactive tools/dashboards development in an\neffort to make a positive impact on the business.  \n\u2022 Programming Language \u2013 Strong programming skills in at least one language\nsuch as Java/C# and scripting languages such as Perl/Python/Ruby. Ability to\nwork with SQL and relational databases.  \n\n**Qualifications:**\n\n\u2022 Bachelor Degree in Information Technology, Computer Science or equivalent  \n\n**Experience / Knowledge:**\n\n\u2022 Solution Architecture and Techno-functional consulting  \n\u2022 Rapid Prototyping  \n\u2022 End-to-end Project cycles covering Requirement Analysis, Functional Design,\nTechnical Design, Development & Modelling, Testing & Optimisation,\nDeployment..  \n\u2022 Best practice adaptation & external benchmarking  \n\n**Required Experience:** This job is suitable for experienced applicants  \n\n**Languages:** English  \n\n**Contact:**   \nInterested applicants may apply online", 
+        "tags": [
+            "DAX"
+        ], 
+        "url": "http://www.infineon-jobs.com/jobs/show_job.php?ID=35651&Lang=English", 
+        "hiringOrganization": [
+            "Infineon Technologies Asia Pacific Pte Ltd", 
+            "Infinion", 
+            "Information Technology"
+        ], 
+        "industry": "Semiconductors", 
+        "title": "System Analyst (Business Analytics) - 12 months Contract", 
+        "spider": "infinionInt", 
+        "subIndustry": "Semiconductor Devices", 
+        "employmentType": [
+            "temporary"
+        ], 
+        "lastSeen": "2014-09-08T02:49:02", 
+        "jobLocation": [
+            "Singapore, Singapore"
+        ], 
+        "identifier": "35651", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    103.852038, 
+                    1.2904527
+                ]
+            ]
+        }, 
+        "firstSeen": "2014-07-20T17:44:38+00:00"
+    }, 
+    {
+        "sector": "Consumer Discretionary", 
+        "lang": {
+            "code": "de", 
+            "conf": 1.0
+        }, 
+        "group": "Volkswagen AG", 
+        "description": "# Technical Expert Big Data im Volkswagen Konzern (m/w) \\- M\u00fcnchen\n\n  \n\nBezeichnung:\n\n    Technical Expert Big Data im Volkswagen Konzern (m/w)\nIhr Einsatzort:\n\n    M\u00fcnchen \nEintrittsdatum:\n\n     sofort\nBefristung:\n\n    unbefristet\nReferenznummer:\n\n    13429\n\nAls 100%ige Tochtergesellschaft der Volkswagen AG unterst\u00fctzen wir den\nVolkswagen Konzern und seine Marken. Wir erbringen Personal- und\nProzessdienstleistungen entlang der gesamten Wertsch\u00f6pfungskette f\u00fcr unsere\nKunden in der Automobilbranche. Unter anderem \u00fcbernehmen wir ganzheitliche\nProzesse innerhalb von IT- und Ingenieursdienstleistungen sowie in\nkaufm\u00e4nnischen Bereichen.\n\n  \n\n## Ihre Aufgaben\n\n  * Sicherstellung einer bedarfsgerechten und sicheren IT-Infrastruktur mit der gro\u00dfe Datenmengen bereitgestellt, kombiniert und analysiert werden \n  * Beschreibung der Struktur und die Skalierbarkeit von Big Data L\u00f6sungen und deren Umsetzung \n  * Definition der Anforderungen und Implementierung der Schnittstellen zu bestehenden Systemen (intern und extern) \n  * Verantwortung f\u00fcr die Konzeption und Implementierung von IT-Infrastruktur unter Einbeziehung der Anforderungen aus dem Bereich Big Data \n  * Konzeption von Datenmodellen unter Beachtung der Entwicklung zuk\u00fcnftiger Datenmengen \n  * Sichtung und Auswahl von Technologien und Kooperationspartnern inkl. Einbettung neuer Technologien in aktuelle Architektur \n  * Aufsetzung von Monitoringl\u00f6sungen \n  * Sicherstellung der Einhaltung der Daten- und IT-Sicherheitsrichtlinien im Konzern f\u00fcr alle Use Cases \n  \n\n## Ihr Profil\n\n  * abgeschlossenes Hochschulstudium im Bereich Informatik oder Wirtschaftsinformatik\n  * mehrj\u00e4hrige Berufserfahrung \n  * Programmierkenntnisse aus Web Developement (PHP, Javascript; HTML, CSS) f\u00fcr Datenvisualisierung\n  * Kenntnisse/F\u00e4higkeiten in Visualisierungstools (Qlikview, Tableau, Spotfire) \n  * Kenntnisse/F\u00e4higkeiten in Datenbankenarchitekturen (mySQL, noSQL, Hadoop, Mapreduce, Neo4j) \n  * Programmierkenntnisse in C, C#, C++, Java \n  * Grundlegendes KnowHow \u00fcber Algorithmenentwicklung/Data Science \n  * hohe Kundenorientierung \n  * Teamorientierung \n\n## Kontakt\n\nF\u00fcr telefonische R\u00fcckfragen stehen wir Ihnen gerne zur Verf\u00fcgung:  \nHerr Thomas Riel  \nTelefon: +49 5361 897-1627\n\nBitte haben Sie Verst\u00e4ndnis, dass wir in unseren Bewerbungsverfahren\nausschlie\u00dflich Online-Bewerbungen ber\u00fccksichtigen. Papierbewerbungen  \nk\u00f6nnen daher nicht bearbeitet werden.", 
+        "tags": [
+            "DAX", 
+            "ForbesMVB"
+        ], 
+        "url": "http://www.autovision-gmbh.com/stellenangebote/technical-expert-big-data-im-volkswagen-konzern-m-w-muenchen-67478237.html", 
+        "geo": {
+            "type": "MultiPoint", 
+            "coordinates": [
+                [
+                    11.5754815, 
+                    48.1372719
+                ]
+            ]
+        }, 
+        "industry": "Automotive", 
+        "title": "Technical Expert Big Data im Volkswagen Konzern (m/w)", 
+        "spider": "autoVision", 
+        "subIndustry": "Automobiles", 
+        "employmentType": [
+            "unbefristet"
+        ], 
+        "lastSeen": "2015-08-05T00:19:00.879000", 
+        "jobLocation": [
+            "M\u00fcnchen"
+        ], 
+        "identifier": "67478237", 
+        "hiringOrganization": [
+            "Volkswagen", 
+            "AutoVision GmbH"
+        ], 
+        "firstSeen": "2015-05-11T00:12:38+00:00"
+    }
+]
+42
