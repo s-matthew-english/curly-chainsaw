@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "position:": "data scientist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33734130859375,
+          48.857487002645485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "position:": "data scientist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3990402221679688,
+          50.8984858728154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "position:": "data scientist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7570266723632812,
+          52.042144268374926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "position:": "data scientist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.097854614257812,
+          50.737976107182085
+        ]
+      }
+    }
+  ]
+}
